@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    container_name: fasosos_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: fasosos
+      POSTGRES_USER: fasosos_user
+      POSTGRES_PASSWORD: change_me
+    ports:
+      - "5432:5432"
+    volumes:
+      - fasosos_pgdata:/var/lib/postgresql/data
+
+volumes:
+  fasosos_pgdata:
