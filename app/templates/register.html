@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Inscription - FasoSOS{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-center min-vh-100 bg-light py-4">
+    <div class="card shadow p-4" style="max-width: 420px; width: 100%;">
+        <h3 class="text-center mb-1" style="color:#dc2626;">FasoSOS</h3>
+        <p class="text-center text-muted mb-4">Créer un compte citoyen</p>
+
+        <div id="erreur-inscription" class="alert alert-danger d-none"></div>
+        <div id="succes-inscription" class="alert alert-success d-none"></div>
+
+        <form id="form-inscription">
+            <div class="mb-3">
+                <label class="form-label">Nom complet</label>
+                <input type="text" class="form-control" id="nom" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Téléphone</label>
+                <input type="text" class="form-control" id="telephone" placeholder="+22670123456" required>
+                <div class="form-text">Format : +226 suivi de 8 chiffres.</div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email (optionnel)</label>
+                <input type="email" class="form-control" id="email">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Mot de passe</label>
+                <input type="password" class="form-control" id="mot_de_passe" required minlength="8">
+                <div class="form-text">8 caractères minimum.</div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Confirmer le mot de passe</label>
+                <input type="password" class="form-control" id="confirmation_mot_de_passe" required minlength="8">
+            </div>
+            <button type="submit" class="btn btn-danger w-100">Créer mon compte</button>
+        </form>
+
+        <p class="text-center text-muted mt-3 mb-0">
+            Déjà inscrit ? <a href="/connexion">Se connecter</a>
+        </p>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/register.js') }}"></script>
+{% endblock %}

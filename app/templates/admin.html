@@ -1,0 +1,265 @@
+{% extends "base.html" %}
+{% block title %}Administration - FasoSOS{% endblock %}
+
+{% block content %}
+<nav class="navbar navbar-dark px-3" style="background-color:#dc2626; height:60px;">
+    <span class="navbar-brand mb-0 h1">🛠️ FasoSOS — Administration</span>
+    <div>
+        <span id="nom-admin" class="text-white me-3"></span>
+        <button id="btn-deconnexion" class="btn btn-sm btn-light">Déconnexion</button>
+    </div>
+</nav>
+
+<div class="container-fluid py-3 px-4">
+    <ul class="nav nav-tabs mb-3">
+        <li class="nav-item">
+            <button class="nav-link active" id="onglet-centres" data-bs-toggle="tab" data-bs-target="#panneau-centres-admin">Centres de santé</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="onglet-utilisateurs" data-bs-toggle="tab" data-bs-target="#panneau-utilisateurs">Utilisateurs</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="onglet-securite" data-bs-toggle="tab" data-bs-target="#panneau-securite">🛡️ Sécurité</button>
+        </li>
+    </ul>
+
+    <div id="alerte-admin" class="alert d-none"></div>
+
+    <div class="tab-content">
+        <!-- Onglet Centres -->
+        <div class="tab-pane fade show active" id="panneau-centres-admin">
+            <div class="row g-4">
+                <div class="col-lg-5">
+                    <div class="card shadow-sm">
+                        <div class="card-header bg-white fw-bold">Ajouter un centre de santé</div>
+                        <div class="card-body">
+                            <form id="form-centre">
+                                <div class="mb-2">
+                                    <label class="form-label">Nom du centre</label>
+                                    <input type="text" class="form-control" id="centre-nom" required>
+                                </div>
+                                <div class="mb-2">
+                                    <label class="form-label">Adresse</label>
+                                    <input type="text" class="form-control" id="centre-adresse">
+                                </div>
+                                <div class="mb-2">
+                                    <label class="form-label">Téléphone</label>
+                                    <input type="text" class="form-control" id="centre-telephone">
+                                </div>
+                                <div class="row">
+                                    <div class="col mb-2">
+                                        <label class="form-label">Latitude</label>
+                                        <input type="text" class="form-control" id="centre-latitude" placeholder="ex : 12.37479 ou 12.37479°" required>
+                                    </div>
+                                    <div class="col mb-2">
+                                        <label class="form-label">Longitude</label>
+                                        <input type="text" class="form-control" id="centre-longitude" placeholder="ex : -1.47153 ou -1.47153°" required>
+                                    </div>
+                                </div>
+                                <div class="mb-2">
+                                    <label class="form-label">Type de centre</label>
+                                    <select id="centre-type" class="form-select" required>
+                                        <option value="CSPS">CSPS</option>
+                                        <option value="CMA">CMA</option>
+                                        <option value="CHR">CHR</option>
+                                        <option value="CHU">CHU</option>
+                                        <option value="CLINIQUE">Clinique</option>
+                                    </select>
+                                </div>
+                                <div class="mb-2">
+                                    <label class="form-label">Horaires</label>
+                                    <input type="text" class="form-control" id="centre-horaires" placeholder="ex: 07h-19h ou 24h/24">
+                                </div>
+                                <div class="form-check mb-3">
+                                    <input type="checkbox" class="form-check-input" id="centre-urgence24h">
+                                    <label class="form-check-label" for="centre-urgence24h">Urgence 24h/24</label>
+                                </div>
+                                <button type="submit" class="btn btn-danger w-100">Ajouter le centre</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-7">
+                    <div class="card shadow-sm">
+                        <div class="card-header bg-white d-flex justify-content-between align-items-center">
+                            <span class="fw-bold">Centres de santé enregistrés</span>
+                            <input type="text" id="recherche-centre" class="form-control form-control-sm w-auto" placeholder="Rechercher...">
+                        </div>
+                        <div class="card-body p-0" style="max-height: 600px; overflow-y: auto;">
+                            <table class="table table-hover mb-0">
+                                <thead style="position: sticky; top: 0; background: white;">
+                                    <tr>
+                                        <th>Nom</th>
+                                        <th>Type</th>
+                                        <th>Urgence 24h</th>
+                                        <th>Horaires</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tableau-centres"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Onglet Utilisateurs -->
+        <div class="tab-pane fade" id="panneau-utilisateurs">
+            <div class="card shadow-sm">
+                <div class="card-header bg-white d-flex justify-content-between align-items-center">
+                    <span class="fw-bold">Utilisateurs inscrits (<span id="compteur-utilisateurs">0</span>)</span>
+                    <input type="text" id="recherche-utilisateur" class="form-control form-control-sm w-auto" placeholder="Rechercher...">
+                </div>
+                <div class="card-body p-0" style="max-height: 600px; overflow-y: auto;">
+                    <table class="table table-hover mb-0">
+                        <thead style="position: sticky; top: 0; background: white;">
+                            <tr>
+                                <th>Nom</th>
+                                <th>Téléphone</th>
+                                <th>Email</th>
+                                <th>Rôle</th>
+                                <th>Statut</th>
+                                <th>Inscrit le</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableau-utilisateurs"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Onglet Sécurité -->
+        <div class="tab-pane fade" id="panneau-securite">
+            <div class="row g-3 mb-3">
+                <div class="col-md-3 col-6">
+                    <div class="card shadow-sm text-center p-3">
+                        <div class="text-muted small">Connexions échouées (24h)</div>
+                        <div class="fs-3 fw-bold text-danger" id="stat-connexions-echouees-24h">0</div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="card shadow-sm text-center p-3">
+                        <div class="text-muted small">Accès refusés (24h)</div>
+                        <div class="fs-3 fw-bold text-warning" id="stat-acces-refuses-24h">0</div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="card shadow-sm text-center p-3">
+                        <div class="text-muted small">Connexions réussies (24h)</div>
+                        <div class="fs-3 fw-bold text-success" id="stat-connexions-reussies-24h">0</div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="card shadow-sm text-center p-3">
+                        <div class="text-muted small">Inscriptions (24h)</div>
+                        <div class="fs-3 fw-bold" id="stat-inscriptions-24h">0</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card shadow-sm">
+                <div class="card-header bg-white d-flex justify-content-between align-items-center">
+                    <span class="fw-bold">Journal de sécurité</span>
+                    <select id="filtre-type-log" class="form-select form-select-sm w-auto">
+                        <option value="">Tous les événements</option>
+                        <option value="connexion_echouee">Connexions échouées</option>
+                        <option value="connexion_reussie">Connexions réussies</option>
+                        <option value="acces_refuse">Accès refusés</option>
+                        <option value="inscription">Inscriptions</option>
+                        <option value="inscription_refusee">Inscriptions refusées</option>
+                        <option value="connexion_refusee">Comptes désactivés (tentative)</option>
+                    </select>
+                </div>
+                <div class="card-body p-0" style="max-height: 500px; overflow-y: auto;">
+                    <table class="table table-hover mb-0">
+                        <thead style="position: sticky; top: 0; background: white;">
+                            <tr>
+                                <th>Événement</th>
+                                <th>Détails</th>
+                                <th>Adresse IP</th>
+                                <th>Téléphone concerné</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableau-logs"></tbody>
+                    </table>
+                </div>
+                <div class="card-footer bg-white d-flex justify-content-between align-items-center">
+                    <button class="btn btn-sm btn-outline-secondary" id="btn-page-precedente">← Précédent</button>
+                    <span class="text-muted small" id="info-pagination"></span>
+                    <button class="btn btn-sm btn-outline-secondary" id="btn-page-suivante">Suivant →</button>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modalEdition" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modifier le centre</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <form id="form-edition-centre">
+            <input type="hidden" id="edition-id">
+            <div class="mb-2">
+                <label class="form-label">Nom du centre</label>
+                <input type="text" class="form-control" id="edition-nom" required>
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Adresse</label>
+                <input type="text" class="form-control" id="edition-adresse">
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Téléphone</label>
+                <input type="text" class="form-control" id="edition-telephone">
+            </div>
+            <div class="row">
+                <div class="col mb-2">
+                    <label class="form-label">Latitude</label>
+                    <input type="text" class="form-control" id="edition-latitude" required>
+                </div>
+                <div class="col mb-2">
+                    <label class="form-label">Longitude</label>
+                    <input type="text" class="form-control" id="edition-longitude" required>
+                </div>
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Type de centre</label>
+                <select id="edition-type" class="form-select" required>
+                    <option value="CSPS">CSPS</option>
+                    <option value="CMA">CMA</option>
+                    <option value="CHR">CHR</option>
+                    <option value="CHU">CHU</option>
+                    <option value="CLINIQUE">Clinique</option>
+                </select>
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Horaires</label>
+                <input type="text" class="form-control" id="edition-horaires">
+            </div>
+            <div class="form-check mb-2">
+                <input type="checkbox" class="form-check-input" id="edition-urgence24h">
+                <label class="form-check-label" for="edition-urgence24h">Urgence 24h/24</label>
+            </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-danger me-auto" id="btn-supprimer-centre">Supprimer</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+        <button type="button" class="btn btn-danger" id="btn-enregistrer-edition">Enregistrer</button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/api.js') }}"></script>
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+{% endblock %}

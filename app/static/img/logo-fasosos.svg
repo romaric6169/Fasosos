@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112" width="42" height="47">
+  <defs>
+    <linearGradient id="degradeTerre" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C1522A"/>
+      <stop offset="100%" stop-color="#8F3818"/>
+    </linearGradient>
+    <linearGradient id="degradeSavane" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#276B48"/>
+      <stop offset="100%" stop-color="#17462D"/>
+    </linearGradient>
+    <filter id="ombreLogo" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <!-- Bouclier bicolore, silhouette plus élancée -->
+  <g filter="url(#ombreLogo)">
+    <path d="M50 2 L94 15 V50 C94 79 76 99 50 110 C24 99 6 79 6 50 V15 Z" fill="url(#degradeTerre)"/>
+    <path d="M50 2 L94 15 V50 C94 79 76 99 50 110 Z" fill="url(#degradeSavane)"/>
+  </g>
+
+  <!-- Liseré fin doré délimitant le bouclier -->
+  <path d="M50 2 L94 15 V50 C94 79 76 99 50 110 C24 99 6 79 6 50 V15 Z"
+        fill="none" stroke="#D9A441" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- Étoile, proportions affinées -->
+  <path d="M50 11 L53.2 19.4 L62.2 19.6 L55 25 L57.6 33.6 L50 28.6 L42.4 33.6 L45 25 L37.8 19.6 L46.8 19.4 Z" fill="#D9A441"/>
+
+  <!-- Médaillon central : repère + croix médicale -->
+  <circle cx="50" cy="64" r="25" fill="#FAF6EE"/>
+  <circle cx="50" cy="64" r="25" fill="none" stroke="#D9A441" stroke-width="1.2"/>
+  <rect x="43.5" y="49" width="13" height="30" rx="2.5" fill="#8F3818"/>
+  <rect x="35" y="57.5" width="30" height="13" rx="2.5" fill="#8F3818"/>
+</svg>

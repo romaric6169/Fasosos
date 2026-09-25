@@ -1,0 +1,7802 @@
+[
+  {
+    "nom": "Dispensaire de Samandin",
+    "latitude": 12.3503064,
+    "longitude": -1.5269581,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.3911132,
+    "longitude": -1.5187175,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Laafi",
+    "latitude": 12.3263621,
+    "longitude": -1.5479751,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Ophtalmolgique (Mission)",
+    "latitude": 12.3600845,
+    "longitude": -1.5272027,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de AMPO",
+    "latitude": 12.3593058,
+    "longitude": -1.4885296,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "La Maternité",
+    "latitude": 10.9763543,
+    "longitude": -3.2479584,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.5806221,
+    "longitude": -3.302526,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3084398,
+    "longitude": -3.5553817,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.2877416,
+    "longitude": -4.2181974,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 10.9723672,
+    "longitude": -2.9969531,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé",
+    "latitude": 10.985704,
+    "longitude": -3.0809142,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire / Maternité",
+    "latitude": 12.0223373,
+    "longitude": -3.6284689,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet Médical les Opportunités",
+    "latitude": 12.3774087,
+    "longitude": -1.477169,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Urbain de Koudougou",
+    "latitude": 12.2564873,
+    "longitude": -2.3664668,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "csps du secteur 09",
+    "latitude": 12.2511589,
+    "longitude": -2.3927185,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5836799,
+    "longitude": -2.0360536,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Laurencia",
+    "latitude": 11.1615538,
+    "longitude": -4.3172299,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Colsama",
+    "latitude": 11.1770129,
+    "longitude": -4.3190594,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service Biomedical Plus",
+    "latitude": 12.3383253,
+    "longitude": -1.5379444,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "dispensaire de nonsin",
+    "latitude": 12.376945,
+    "longitude": -1.5618685,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "La Bergerie-foi-univers-compassion",
+    "latitude": 12.3302725,
+    "longitude": -1.5447186,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25-43-35-35"
+  },
+  {
+    "nom": "CMA de Kombissiri",
+    "latitude": 12.0808992,
+    "longitude": -1.346669,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tampouy",
+    "latitude": 12.3994466,
+    "longitude": -1.5702476,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS \" Jesus Guérit \"",
+    "latitude": 12.3960856,
+    "longitude": -1.5666768,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre medical ECLA",
+    "latitude": 12.388117,
+    "longitude": -1.5784295,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins privé ste Fatima",
+    "latitude": 12.4017096,
+    "longitude": -1.5618647,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre medical Amour du prochain",
+    "latitude": 12.4021923,
+    "longitude": -1.5649253,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Islamique",
+    "latitude": 11.2011627,
+    "longitude": -4.3089736,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS ACCART-VILLE",
+    "latitude": 11.1885806,
+    "longitude": -4.3109165,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Djégonao",
+    "latitude": 10.532485,
+    "longitude": -3.3628548,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dimolo",
+    "latitude": 10.5403738,
+    "longitude": -3.4020663,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Gomposom",
+    "latitude": 13.0189712,
+    "longitude": -2.1808593,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet médical",
+    "latitude": 12.3762443,
+    "longitude": -1.4910986,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet médical Mâkhy",
+    "latitude": 12.3761732,
+    "longitude": -1.4892209,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "SOS Santé Cabinet privé polyvalent",
+    "latitude": 12.3776451,
+    "longitude": -1.4907215,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Pédiatrique Médica",
+    "latitude": 12.3529145,
+    "longitude": -1.5398678,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Sociale",
+    "latitude": 12.1804187,
+    "longitude": -0.3613589,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Sociale",
+    "latitude": 12.191366,
+    "longitude": -0.3574374,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Sociale",
+    "latitude": 12.1795404,
+    "longitude": -0.34333,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins infirmiers, ophtalmologie",
+    "latitude": 12.3474417,
+    "longitude": -1.5478832,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins infirmiers",
+    "latitude": 12.3468074,
+    "longitude": -1.5503078,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet Medical LAZAR BLANCHE",
+    "latitude": 11.1964707,
+    "longitude": -4.3178194,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Roseta",
+    "latitude": 11.1713035,
+    "longitude": -4.3133384,
+    "type_osm": "clinic",
+    "adresse": "Rue 9.42",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du juvenat filles de st camille",
+    "latitude": 12.3782436,
+    "longitude": -1.4751353,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Yati",
+    "latitude": 12.3379203,
+    "longitude": -1.5055196,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet soins infirmiers",
+    "latitude": 12.3335983,
+    "longitude": -1.5269596,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Madina",
+    "latitude": 12.3325453,
+    "longitude": -1.5242761,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25 45 81 64"
+  },
+  {
+    "nom": "Clinique Médicale Centre D'or",
+    "latitude": 12.3289011,
+    "longitude": -1.5142287,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25 38 80 58"
+  },
+  {
+    "nom": "Centre Médical De Mahadaga",
+    "latitude": 11.7212118,
+    "longitude": 1.7641685,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Urbain de Diapaga",
+    "latitude": 12.0750023,
+    "longitude": 1.7869202,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Saint Jean",
+    "latitude": 12.3606171,
+    "longitude": -1.5344882,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pourra",
+    "latitude": 13.1391598,
+    "longitude": -1.7922538,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Daka",
+    "latitude": 13.1529574,
+    "longitude": -3.0415569,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Niankore",
+    "latitude": 13.2282369,
+    "longitude": -2.9638313,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bangassogo",
+    "latitude": 13.3155004,
+    "longitude": -2.9128773,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bonou",
+    "latitude": 13.1231325,
+    "longitude": -2.8097941,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Namassa",
+    "latitude": 13.1303663,
+    "longitude": -2.7190514,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Boaré",
+    "latitude": 13.0779494,
+    "longitude": -2.9149563,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bouga",
+    "latitude": 13.2374462,
+    "longitude": -1.8673168,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Koumna-Yargo",
+    "latitude": 13.1773587,
+    "longitude": -1.8476773,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Rambo",
+    "latitude": 13.2351173,
+    "longitude": -1.8146911,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tondé-Tangaye",
+    "latitude": 13.1883696,
+    "longitude": -1.8070042,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Guipa",
+    "latitude": 12.9926855,
+    "longitude": -1.7213465,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Koullou",
+    "latitude": 12.9914539,
+    "longitude": -1.5973734,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Sarma",
+    "latitude": 12.999447,
+    "longitude": -1.6867467,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Yaké",
+    "latitude": 12.9516562,
+    "longitude": -1.7117476,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bokin",
+    "latitude": 13.0084483,
+    "longitude": -1.793804,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Téma",
+    "latitude": 13.0432866,
+    "longitude": -1.7667372,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Séguédin",
+    "latitude": 12.9739739,
+    "longitude": -1.8021092,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Inou",
+    "latitude": 13.3124999,
+    "longitude": -1.8946447,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Lengo",
+    "latitude": 13.2787802,
+    "longitude": -1.7695424,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Irim",
+    "latitude": 13.2544212,
+    "longitude": -1.771699,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tangand Tanga",
+    "latitude": 13.0659941,
+    "longitude": -1.8749586,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tanghin",
+    "latitude": 13.0254802,
+    "longitude": -1.8494338,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kiembara",
+    "latitude": 13.2430202,
+    "longitude": -2.7248112,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Latodin",
+    "latitude": 12.9007474,
+    "longitude": -2.4608307,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dio",
+    "latitude": 13.3287143,
+    "longitude": -2.6368125,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bagaré",
+    "latitude": 12.9150597,
+    "longitude": -2.5982458,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kalsaka",
+    "latitude": 13.1663101,
+    "longitude": -1.9831268,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Berenga",
+    "latitude": 13.1064435,
+    "longitude": -2.1235481,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bema",
+    "latitude": 13.1099844,
+    "longitude": -2.0342722,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ouéllé",
+    "latitude": 13.3668138,
+    "longitude": -2.6977829,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Goungre",
+    "latitude": 13.1854405,
+    "longitude": -1.9142788,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tianra",
+    "latitude": 13.0919941,
+    "longitude": -3.1721074,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kassoum",
+    "latitude": 13.0766843,
+    "longitude": -3.3020405,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kalamtogo",
+    "latitude": 12.8484026,
+    "longitude": -2.5163362,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Loungo",
+    "latitude": 12.8788458,
+    "longitude": -2.4240581,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Moutoulou",
+    "latitude": 12.923582,
+    "longitude": -2.3628331,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Zougo",
+    "latitude": 12.7942777,
+    "longitude": -2.6209276,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kossouka",
+    "latitude": 13.370234,
+    "longitude": -1.8997065,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kwaremenguel",
+    "latitude": 13.3345674,
+    "longitude": -3.0172338,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kieblega",
+    "latitude": 13.3601481,
+    "longitude": -1.9588515,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Gomboro",
+    "latitude": 13.4822354,
+    "longitude": -2.7774897,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "konga",
+    "latitude": 13.4948824,
+    "longitude": -2.878545,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Sittigo",
+    "latitude": 13.4616893,
+    "longitude": -2.0221058,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Goubré",
+    "latitude": 13.4262126,
+    "longitude": -2.0470016,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ramsa",
+    "latitude": 13.4912424,
+    "longitude": -2.1019723,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Lanfièra",
+    "latitude": 12.987903,
+    "longitude": -3.4144355,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Koumbara",
+    "latitude": 12.9087953,
+    "longitude": -3.3920146,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Debe",
+    "latitude": 13.0566168,
+    "longitude": -3.4301118,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tougan.urbain",
+    "latitude": 13.070659,
+    "longitude": -3.058499,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Boussoum",
+    "latitude": 13.1481871,
+    "longitude": -2.9505809,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bouboulou",
+    "latitude": 12.8603989,
+    "longitude": -2.2037395,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Koltanghin",
+    "latitude": 12.8429222,
+    "longitude": -2.3147691,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Petit Samba",
+    "latitude": 13.0263784,
+    "longitude": -2.2867003,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Song Naba",
+    "latitude": 12.9521926,
+    "longitude": -2.3414693,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Gorgare",
+    "latitude": 13.2089362,
+    "longitude": -2.6596934,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kirio",
+    "latitude": 13.1475065,
+    "longitude": -2.6881585,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Minissia",
+    "latitude": 12.7985298,
+    "longitude": -2.4177804,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bouré",
+    "latitude": 12.7252964,
+    "longitude": -2.3258965,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kourono",
+    "latitude": 12.6655532,
+    "longitude": -2.3403888,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Samba",
+    "latitude": 12.668813,
+    "longitude": -2.3803595,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Thébo",
+    "latitude": 12.6343322,
+    "longitude": -2.4364822,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Toessin",
+    "latitude": 12.7410076,
+    "longitude": -2.3838911,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Teonsgho",
+    "latitude": 13.5165659,
+    "longitude": -1.9151365,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Zomkalga",
+    "latitude": 13.4589067,
+    "longitude": -1.8760096,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Gambo",
+    "latitude": 13.3357629,
+    "longitude": -2.0143809,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Rondo",
+    "latitude": 13.2366908,
+    "longitude": -1.9397162,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Barma",
+    "latitude": 13.2396849,
+    "longitude": -2.0619826,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Toeni",
+    "latitude": 13.4396956,
+    "longitude": -3.1834992,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Nehourou",
+    "latitude": 13.7010435,
+    "longitude": -3.2337922,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Lankoué",
+    "latitude": 13.2451189,
+    "longitude": -2.5876746,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gourbala",
+    "latitude": 13.1336229,
+    "longitude": -2.600376,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Rassouly",
+    "latitude": 13.2979526,
+    "longitude": -2.5123562,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kouy",
+    "latitude": 13.1857673,
+    "longitude": -3.1647621,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tiao",
+    "latitude": 13.2249489,
+    "longitude": -3.2388725,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bouria",
+    "latitude": 12.8184961,
+    "longitude": -2.1805676,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Konan",
+    "latitude": 12.7717124,
+    "longitude": -2.2422601,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Lantaga",
+    "latitude": 12.7483815,
+    "longitude": -2.185092,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pilimpikou",
+    "latitude": 12.7058084,
+    "longitude": -2.2701284,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Rakounga",
+    "latitude": 12.7432401,
+    "longitude": -2.1992023,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tindila",
+    "latitude": 12.8111915,
+    "longitude": -2.2673838,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Roumtenga",
+    "latitude": 12.8975636,
+    "longitude": -2.3385181,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tibin",
+    "latitude": 13.0140343,
+    "longitude": -2.3454206,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kassan",
+    "latitude": 12.9951307,
+    "longitude": -3.0284607,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Da",
+    "latitude": 12.9901227,
+    "longitude": -2.912754,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kawara",
+    "latitude": 13.0064102,
+    "longitude": -2.8956476,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Niassan",
+    "latitude": 13.0935987,
+    "longitude": -3.4214713,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bosse",
+    "latitude": 13.0965759,
+    "longitude": -3.3894605,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Di",
+    "latitude": 13.1699832,
+    "longitude": -3.4092109,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Oue",
+    "latitude": 13.2405546,
+    "longitude": -3.3939912,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Diouroum_csps",
+    "latitude": 12.9860248,
+    "longitude": -3.1150013,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bangassi",
+    "latitude": 13.1592096,
+    "longitude": -3.2767111,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Soumara_boumba",
+    "latitude": 13.1584847,
+    "longitude": -3.2024658,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bingho",
+    "latitude": 12.7687614,
+    "longitude": -2.0658843,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kaba",
+    "latitude": 12.7228706,
+    "longitude": -2.0583808,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pelegtenga",
+    "latitude": 12.9030462,
+    "longitude": -2.1859198,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Zongbèga",
+    "latitude": 12.861604,
+    "longitude": -2.1056165,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ouissiga",
+    "latitude": 12.8364967,
+    "longitude": -1.9098883,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Arbollé",
+    "latitude": 12.8503,
+    "longitude": -2.0316859,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Boulkon",
+    "latitude": 12.9329668,
+    "longitude": -1.9650102,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Namassa Yako",
+    "latitude": 12.9184346,
+    "longitude": -2.0797154,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pathiri",
+    "latitude": 12.9576208,
+    "longitude": -2.0806481,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Secteur 5",
+    "latitude": 12.9725219,
+    "longitude": -2.2486108,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Zougoungou",
+    "latitude": 13.0479522,
+    "longitude": -2.2101845,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dourou",
+    "latitude": 12.99387,
+    "longitude": -2.054298,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kapon",
+    "latitude": 12.9650339,
+    "longitude": -1.9946893,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Kirsi",
+    "latitude": 13.0394002,
+    "longitude": -1.9305466,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Tampouy",
+    "latitude": 13.0097427,
+    "longitude": -2.0015429,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Boulma",
+    "latitude": 12.9529455,
+    "longitude": -2.1336105,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Niognogo",
+    "latitude": 12.9842053,
+    "longitude": -2.1014762,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Secteur 4",
+    "latitude": 12.9530727,
+    "longitude": -2.259596,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Secteur 6",
+    "latitude": 12.9594689,
+    "longitude": -2.2398768,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Yalgatenga",
+    "latitude": 12.9508927,
+    "longitude": -1.9049967,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Antoine de Padou",
+    "latitude": 12.3611197,
+    "longitude": -1.5341652,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dalô",
+    "latitude": 11.7377805,
+    "longitude": -2.089063,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ophtalmologie Medecin Généraliste",
+    "latitude": 12.3334779,
+    "longitude": -1.5003531,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "les Tisserins",
+    "latitude": 12.3704364,
+    "longitude": -1.4766689,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA EVANGELIQUE SOURCE DE VIE",
+    "latitude": 12.3325535,
+    "longitude": -1.561108,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "0022650431772"
+  },
+  {
+    "nom": "CSPS de Ouayou",
+    "latitude": 11.7098391,
+    "longitude": -2.0032635,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bolomakoté",
+    "latitude": 11.1609147,
+    "longitude": -4.2903286,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lafiabougou",
+    "latitude": 11.15226,
+    "longitude": -4.3236884,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Belle Ville",
+    "latitude": 11.1733969,
+    "longitude": -4.3655568,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Colma",
+    "latitude": 11.2149662,
+    "longitude": -4.2968418,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sakaby",
+    "latitude": 11.2095424,
+    "longitude": -4.2874118,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bassi",
+    "latitude": 13.3252851,
+    "longitude": -2.2411915,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.344389,
+    "longitude": -2.2928015,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.3293327,
+    "longitude": -2.1884492,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.2977623,
+    "longitude": -2.2450567,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kyon",
+    "latitude": 12.2825375,
+    "longitude": -2.5792251,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire privé",
+    "latitude": 12.2954284,
+    "longitude": -2.5194472,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Association Burkinabé pour le Bien-Etre Familial (ABBEF)",
+    "latitude": 12.3702889,
+    "longitude": -1.5019368,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bougnounou",
+    "latitude": 11.8058273,
+    "longitude": -1.999556,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical urbain",
+    "latitude": 12.3721148,
+    "longitude": -1.5251451,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Philadelphie",
+    "latitude": 12.3692331,
+    "longitude": -1.5114753,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bakata",
+    "latitude": 11.7690732,
+    "longitude": -1.8517707,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Malika",
+    "latitude": 13.570868,
+    "longitude": -2.4107923,
+    "type_osm": "hospital",
+    "adresse": "N 2 Avenue de Mopti",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tibou",
+    "latitude": 14.0926392,
+    "longitude": -2.16583,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Laboratoire Cellal",
+    "latitude": 14.0345583,
+    "longitude": -0.0372911,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire du centre Muraz",
+    "latitude": 11.1807621,
+    "longitude": -4.3046193,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Saint Leopold",
+    "latitude": 11.1611122,
+    "longitude": -4.2787004,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ramongo",
+    "latitude": 12.2193546,
+    "longitude": -2.2401441,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2144138,
+    "longitude": -2.3210442,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1817048,
+    "longitude": -2.2579486,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Noom Wende",
+    "latitude": 12.3243998,
+    "longitude": -1.4726086,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Temnaoré",
+    "latitude": 13.4330478,
+    "longitude": -1.7353876,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lourgou",
+    "latitude": 13.4062738,
+    "longitude": -1.683043,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Sociale",
+    "latitude": 12.2073804,
+    "longitude": -2.3916332,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bama",
+    "latitude": 11.3811847,
+    "longitude": -4.4137048,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de VK",
+    "latitude": 11.3720603,
+    "longitude": -4.3927058,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Boudtenga",
+    "latitude": 12.4872754,
+    "longitude": -1.2664895,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tiaré",
+    "latitude": 11.4726015,
+    "longitude": -1.4713419,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2651925,
+    "longitude": -1.6001697,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Boassa",
+    "latitude": 12.2962978,
+    "longitude": -1.6205049,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dayoubsi",
+    "latitude": 12.2361713,
+    "longitude": -1.6037183,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bavila",
+    "latitude": 12.114945,
+    "longitude": -2.672655,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tiogo",
+    "latitude": 12.1769933,
+    "longitude": -2.6954645,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Doudou",
+    "latitude": 12.1691171,
+    "longitude": -2.5472242,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koukouldi",
+    "latitude": 12.1973198,
+    "longitude": -2.5379276,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Poun",
+    "latitude": 12.2534803,
+    "longitude": -2.5313267,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Poa",
+    "latitude": 12.3618328,
+    "longitude": -2.679854,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nagarpoulou",
+    "latitude": 12.3333359,
+    "longitude": -2.7348071,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zinbéogo",
+    "latitude": 13.8713378,
+    "longitude": -0.7431275,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Foubé",
+    "latitude": 13.851897,
+    "longitude": -0.9270358,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpita de district de Djibo",
+    "latitude": 14.1005609,
+    "longitude": -1.6296016,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Croix-Rouge",
+    "latitude": 14.0992121,
+    "longitude": -1.6339186,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Croix-Rouge",
+    "latitude": 14.100083,
+    "longitude": -1.6334676,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.356476,
+    "longitude": -4.8310259,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Toécé",
+    "latitude": 11.8276034,
+    "longitude": -1.2657106,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sinikieré",
+    "latitude": 11.789795,
+    "longitude": -0.9558778,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Doguel",
+    "latitude": 11.183232,
+    "longitude": -4.3567485,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zéhui",
+    "latitude": 12.1929154,
+    "longitude": -3.0098516,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bladi",
+    "latitude": 12.4074801,
+    "longitude": -3.2972127,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS urbain de KOMBISSIRI",
+    "latitude": 12.0620441,
+    "longitude": -1.3338494,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koundouba",
+    "latitude": 13.1445031,
+    "longitude": -2.3178497,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Rikiba",
+    "latitude": 13.1668942,
+    "longitude": -2.1667019,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8773657,
+    "longitude": -1.5163337,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0584301,
+    "longitude": -1.401912,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "csps",
+    "latitude": 11.986036,
+    "longitude": -1.5510004,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dibilou",
+    "latitude": 13.3481281,
+    "longitude": -0.9516317,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ouintokoulga",
+    "latitude": 13.3714582,
+    "longitude": -0.7911108,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Téyogodin",
+    "latitude": 11.9728769,
+    "longitude": -0.1499784,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire privé",
+    "latitude": 11.9484555,
+    "longitude": -0.2862936,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "SCSPS de Vohogdin",
+    "latitude": 11.6219094,
+    "longitude": 0.232408,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Hitté",
+    "latitude": 13.7656545,
+    "longitude": -1.8488158,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.2538661,
+    "longitude": -1.5662513,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Namassa",
+    "latitude": 12.918287,
+    "longitude": -2.0793074,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zougo",
+    "latitude": 12.794292,
+    "longitude": -2.6206082,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bibiou",
+    "latitude": 12.8998004,
+    "longitude": -2.5433886,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kirsi",
+    "latitude": 12.964828,
+    "longitude": -1.9943538,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tampouy",
+    "latitude": 13.0098577,
+    "longitude": -2.0008636,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lâ-Todin",
+    "latitude": 12.9011181,
+    "longitude": -2.4608409,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kalamtogo",
+    "latitude": 12.8480538,
+    "longitude": -2.5164297,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Minissia",
+    "latitude": 12.7987212,
+    "longitude": -2.4176601,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Barma-Mossi",
+    "latitude": 13.2398332,
+    "longitude": -2.0622835,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Toéguin-Mossi",
+    "latitude": 13.3890247,
+    "longitude": -1.8734962,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.2444284,
+    "longitude": -2.2054034,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ridimbo",
+    "latitude": 13.1562566,
+    "longitude": -2.2345296,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bogolé",
+    "latitude": 12.2900291,
+    "longitude": 0.5179051,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.18639,
+    "longitude": -0.0102701,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Manegbsongo",
+    "latitude": 12.5010262,
+    "longitude": -1.3228494,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Sainte Thérèse",
+    "latitude": 11.1182857,
+    "longitude": -0.0010461,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Firka",
+    "latitude": 13.2394298,
+    "longitude": -0.762265,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.2700671,
+    "longitude": -1.0799459,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de santé et de promotion sociale",
+    "latitude": 11.0804212,
+    "longitude": -5.311425,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gampéla",
+    "latitude": 12.4282484,
+    "longitude": -1.3867798,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dougoumato 2",
+    "latitude": 11.2111468,
+    "longitude": -3.8091257,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kwadifagou",
+    "latitude": 12.199058,
+    "longitude": 0.3721431,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0161435,
+    "longitude": -0.0957495,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lorgho",
+    "latitude": 11.9451203,
+    "longitude": -0.0071266,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gonsé",
+    "latitude": 12.459464,
+    "longitude": -1.3163839,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Péélé",
+    "latitude": 12.2688173,
+    "longitude": -1.1904837,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Csps de zitenga",
+    "latitude": 12.7452166,
+    "longitude": -1.3098818,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sônô",
+    "latitude": 12.8227493,
+    "longitude": -3.4940654,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koala",
+    "latitude": 12.3882884,
+    "longitude": -1.2543404,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Mogden",
+    "latitude": 12.3302504,
+    "longitude": -1.3900012,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.3226148,
+    "longitude": -1.496957,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soukuy",
+    "latitude": 12.6029724,
+    "longitude": -3.4724388,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Passakongo",
+    "latitude": 12.5115188,
+    "longitude": -3.4322915,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tionkuy",
+    "latitude": 12.5085913,
+    "longitude": -3.4590974,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS privé",
+    "latitude": 12.4951054,
+    "longitude": -3.4689277,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Karo",
+    "latitude": 12.3654536,
+    "longitude": -3.3039531,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Fakouna",
+    "latitude": 12.3471629,
+    "longitude": -3.4281179,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kari",
+    "latitude": 12.2969897,
+    "longitude": -3.5597125,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dona",
+    "latitude": 12.280973,
+    "longitude": -3.3422725,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Toroba",
+    "latitude": 12.3519826,
+    "longitude": -3.6744614,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Communal",
+    "latitude": 12.4476925,
+    "longitude": -3.4480226,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du Secteur 3",
+    "latitude": 12.4768408,
+    "longitude": -3.4432952,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS HAMDALAYE",
+    "latitude": 11.1830028,
+    "longitude": -4.2971906,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zouma",
+    "latitude": 12.6690552,
+    "longitude": -2.9264751,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CLINIQUE EUREKA",
+    "latitude": 11.1771057,
+    "longitude": -4.3534721,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "+22620956051"
+  },
+  {
+    "nom": "CSPS de Tensobentinga",
+    "latitude": 12.303823,
+    "longitude": -1.3245982,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "OST",
+    "latitude": 12.3774727,
+    "longitude": -1.5110758,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "+22625324241"
+  },
+  {
+    "nom": "CSPS de Tanvi",
+    "latitude": 12.2480021,
+    "longitude": -1.3289917,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2661491,
+    "longitude": -1.2926289,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Association Wend kuni poir ke Développement",
+    "latitude": 12.3989999,
+    "longitude": -1.5433308,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kombori",
+    "latitude": 13.4318761,
+    "longitude": -3.9411682,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Radiologie",
+    "latitude": 10.642036,
+    "longitude": -4.7440899,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bloc opératoire",
+    "latitude": 10.6419896,
+    "longitude": -4.7452738,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koulgoren",
+    "latitude": 12.251082,
+    "longitude": -2.0375991,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koanga",
+    "latitude": 12.2804187,
+    "longitude": -1.9977146,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pneumologie",
+    "latitude": 11.1707522,
+    "longitude": -4.3016772,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Eureka",
+    "latitude": 11.1729091,
+    "longitude": -4.3547791,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "csps de tangasgo",
+    "latitude": 13.1508132,
+    "longitude": -1.0711346,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Accueil Service renseignement",
+    "latitude": 11.1708481,
+    "longitude": -4.3011626,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Consultation",
+    "latitude": 11.1704782,
+    "longitude": -4.3020707,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cardiologie",
+    "latitude": 11.1705264,
+    "longitude": -4.3019391,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Urgences",
+    "latitude": 11.1707503,
+    "longitude": -4.3013384,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispenserie St. Bernard",
+    "latitude": 11.1921611,
+    "longitude": -4.2664592,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Rega",
+    "latitude": 13.3567689,
+    "longitude": -2.5444186,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kouéré",
+    "latitude": 10.4632541,
+    "longitude": -4.0003002,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dandougou",
+    "latitude": 10.5247807,
+    "longitude": -4.0599874,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koumenstenga-Mossi",
+    "latitude": 12.941474,
+    "longitude": -0.6563018,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Faradjan",
+    "latitude": 10.3740321,
+    "longitude": -4.2002615,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Saatenga",
+    "latitude": 11.8918294,
+    "longitude": -0.0009388,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Nouna",
+    "latitude": 12.7311547,
+    "longitude": -3.8597336,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical",
+    "latitude": 11.1222796,
+    "longitude": -0.0072951,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nasséré",
+    "latitude": 13.3230471,
+    "longitude": -1.3587937,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lédéré",
+    "latitude": 12.9484675,
+    "longitude": -0.7644993,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koanguen-Sangro",
+    "latitude": 12.9900921,
+    "longitude": -0.8144152,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Abel Sanou",
+    "latitude": 11.1961167,
+    "longitude": -4.2907941,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ba",
+    "latitude": 13.3594803,
+    "longitude": -4.0206555,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koroni",
+    "latitude": 13.30587,
+    "longitude": -3.9287254,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Berma",
+    "latitude": 13.3331033,
+    "longitude": -3.8450378,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Borékuy",
+    "latitude": 12.9164583,
+    "longitude": -4.0595984,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique ANAÏA",
+    "latitude": 12.3909416,
+    "longitude": -1.594227,
+    "type_osm": "doctors",
+    "adresse": "Avenue du Yatenga",
+    "telephone": ""
+  },
+  {
+    "nom": "Univers BIO-MEDICAL",
+    "latitude": 12.3684347,
+    "longitude": -1.4985876,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité",
+    "latitude": 12.3826538,
+    "longitude": -1.506702,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique la CONCORDE",
+    "latitude": 10.6442702,
+    "longitude": -4.7474563,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de SONDOGO",
+    "latitude": 12.3194894,
+    "longitude": -1.597535,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Frarakan",
+    "latitude": 11.1893904,
+    "longitude": -4.2939348,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Hamdalaye",
+    "latitude": 11.1833172,
+    "longitude": -4.2967767,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tounouma",
+    "latitude": 11.1816619,
+    "longitude": -4.2858871,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kwon",
+    "latitude": 12.5437899,
+    "longitude": -2.7470568,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nyfou",
+    "latitude": 12.4915466,
+    "longitude": -2.7734953,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "District Sanitaire de ORODARA",
+    "latitude": 10.9803772,
+    "longitude": -4.9160416,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gossina",
+    "latitude": 12.5224404,
+    "longitude": -2.8683396,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre medical Bethany",
+    "latitude": 12.0344054,
+    "longitude": 0.3733222,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Régional FADA",
+    "latitude": 12.0596696,
+    "longitude": 0.3536529,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CLINIQUE AURIANA",
+    "latitude": 11.2012019,
+    "longitude": -4.2325082,
+    "type_osm": "hospital",
+    "adresse": "secteur 24/33",
+    "telephone": ""
+  },
+  {
+    "nom": "CLINIQUE AURIANA",
+    "latitude": 11.1947418,
+    "longitude": -4.2222,
+    "type_osm": "doctor",
+    "adresse": "SECTEUR 24/33",
+    "telephone": "0022662577370"
+  },
+  {
+    "nom": "CSPS de Sapo",
+    "latitude": 11.9371244,
+    "longitude": -2.0387363,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tim-Tim",
+    "latitude": 12.0052717,
+    "longitude": -2.0442778,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Yil-Yaala (Roundé)",
+    "latitude": 12.0064733,
+    "longitude": -2.0207816,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hauts Bassins",
+    "latitude": 11.2255907,
+    "longitude": -4.2861745,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "54626298"
+  },
+  {
+    "nom": "CSPS de Sala",
+    "latitude": 11.9328128,
+    "longitude": -2.1895583,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Binyéné",
+    "latitude": 11.9094901,
+    "longitude": -1.9471416,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Yalou-Gouroungo",
+    "latitude": 11.9552544,
+    "longitude": -1.9170727,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de KARI",
+    "latitude": 12.2994322,
+    "longitude": -3.5515577,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Yéozanga",
+    "latitude": 12.0039232,
+    "longitude": -1.9944182,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tayalo",
+    "latitude": 11.8523152,
+    "longitude": -1.8827525,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Saint Jean Paul ll",
+    "latitude": 12.4145248,
+    "longitude": -1.5979495,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "67430505"
+  },
+  {
+    "nom": "Centre Medical SOURCE D'ESPOIR",
+    "latitude": 12.4230388,
+    "longitude": -1.5983066,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "70257032"
+  },
+  {
+    "nom": "CSPS Privé SOLIDARITE",
+    "latitude": 12.4478759,
+    "longitude": -1.6250965,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "73035098"
+  },
+  {
+    "nom": "CSPS de Kinkirsgogo",
+    "latitude": 11.8363388,
+    "longitude": -1.7541888,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Basnéré",
+    "latitude": 11.9113797,
+    "longitude": -1.7851093,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Goumsin",
+    "latitude": 11.9951053,
+    "longitude": -1.8113279,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Nayiri",
+    "latitude": 12.0396537,
+    "longitude": -1.8250904,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kayao",
+    "latitude": 12.0097711,
+    "longitude": -1.8375894,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sancé",
+    "latitude": 12.0761663,
+    "longitude": -1.8560994,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koukoulou",
+    "latitude": 12.1051237,
+    "longitude": -1.856145,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gounghin",
+    "latitude": 12.0861277,
+    "longitude": -1.9127101,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nakomtenga",
+    "latitude": 12.1306217,
+    "longitude": -1.9296724,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lado",
+    "latitude": 11.9660928,
+    "longitude": -1.7238678,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Esperanza cardiologie",
+    "latitude": 12.3221225,
+    "longitude": -1.5094608,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": "0022672553030"
+  },
+  {
+    "nom": "CSPS de Bourou",
+    "latitude": 12.0572431,
+    "longitude": -2.0114422,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sam",
+    "latitude": 12.0774213,
+    "longitude": -2.0008448,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Savili",
+    "latitude": 12.0957085,
+    "longitude": -2.035692,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soula",
+    "latitude": 12.0307806,
+    "longitude": -2.0843929,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Napabtega-Gounghin",
+    "latitude": 12.2346273,
+    "longitude": -1.4029964,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA Kossodo",
+    "latitude": 12.4181127,
+    "longitude": -1.467297,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nomgomto",
+    "latitude": 12.1421229,
+    "longitude": -1.9797733,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dapoya (Sakoinsé)",
+    "latitude": 12.1866154,
+    "longitude": -1.9623497,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CM de Kokologho",
+    "latitude": 12.1903409,
+    "longitude": -1.8742338,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nongodoum",
+    "latitude": 14.1495594,
+    "longitude": -2.5202116,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bani",
+    "latitude": 14.2159164,
+    "longitude": -2.582345,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Madougou",
+    "latitude": 14.0490748,
+    "longitude": -2.5239292,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CM de Bahn",
+    "latitude": 14.0762678,
+    "longitude": -2.4559955,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ségué-Mossi",
+    "latitude": 14.1061564,
+    "longitude": -2.3053573,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kaïn",
+    "latitude": 14.0431292,
+    "longitude": -2.7624969,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Doré",
+    "latitude": 13.9339657,
+    "longitude": -2.6254749,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Baani",
+    "latitude": 13.9052236,
+    "longitude": -2.6158673,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Yensé",
+    "latitude": 13.9096627,
+    "longitude": -2.8423986,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Doubaré",
+    "latitude": 13.8645361,
+    "longitude": -2.8624052,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nassingré",
+    "latitude": 14.1636581,
+    "longitude": -2.1872436,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Sollé",
+    "latitude": 14.1169478,
+    "longitude": -2.1231991,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical d'Ingané",
+    "latitude": 13.9541168,
+    "longitude": -2.2256957,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dandambara",
+    "latitude": 13.9552322,
+    "longitude": -2.3445658,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Toulfé",
+    "latitude": 13.882592,
+    "longitude": -1.95032,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pellaboukou",
+    "latitude": 13.9065606,
+    "longitude": -2.0909321,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Nogo",
+    "latitude": 13.8383091,
+    "longitude": -2.1988159,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Rimassa-Tanghin",
+    "latitude": 13.8351682,
+    "longitude": -2.051497,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Silia",
+    "latitude": 13.7842103,
+    "longitude": -2.1405154,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS urbain de Titao",
+    "latitude": 13.7643467,
+    "longitude": -2.0664355,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sala-Foulbé",
+    "latitude": 13.7866486,
+    "longitude": -2.1020579,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de You",
+    "latitude": 13.7062426,
+    "longitude": -2.1453582,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Selbonga",
+    "latitude": 13.752739,
+    "longitude": -2.0208272,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Rambo",
+    "latitude": 13.6104185,
+    "longitude": -2.1137618,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Rounga",
+    "latitude": 13.6827147,
+    "longitude": -1.8884602,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Doussaré",
+    "latitude": 13.5965807,
+    "longitude": -1.9670396,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bouna",
+    "latitude": 13.7737121,
+    "longitude": -1.9664884,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Toolo",
+    "latitude": 13.7407842,
+    "longitude": -1.9648965,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ouindigui",
+    "latitude": 13.6784928,
+    "longitude": -1.9637096,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ninigui",
+    "latitude": 13.8851958,
+    "longitude": -2.3628397,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dessé",
+    "latitude": 13.9831247,
+    "longitude": -2.4351078,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bidi-Mossi",
+    "latitude": 13.9171596,
+    "longitude": -2.4948983,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kéké-Mossi",
+    "latitude": 13.9155311,
+    "longitude": -2.444002,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Mené",
+    "latitude": 13.8586509,
+    "longitude": -2.3225369,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koumbri",
+    "latitude": 13.8447691,
+    "longitude": -2.4131875,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sabouna",
+    "latitude": 13.7872725,
+    "longitude": -2.3267841,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Derhogo",
+    "latitude": 13.8365056,
+    "longitude": -2.3335393,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Barga-Mossi",
+    "latitude": 13.7985242,
+    "longitude": -2.2676253,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dinguiri",
+    "latitude": 13.7685801,
+    "longitude": -2.3637933,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soulou",
+    "latitude": 13.7634896,
+    "longitude": -2.4712881,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ramdolla-Mossi",
+    "latitude": 13.7447262,
+    "longitude": -2.3003,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ronga",
+    "latitude": 13.7301902,
+    "longitude": -2.3965162,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lemnogo-Mossi",
+    "latitude": 13.7327228,
+    "longitude": -2.315492,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pogoro-Mossi",
+    "latitude": 13.7552648,
+    "longitude": -2.4258354,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "El Shada",
+    "latitude": 12.3943196,
+    "longitude": -1.5899674,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Rim",
+    "latitude": 13.7156716,
+    "longitude": -2.5212657,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical de Thiou",
+    "latitude": 13.7974145,
+    "longitude": -2.6520208,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sim",
+    "latitude": 13.7954062,
+    "longitude": -2.5814867,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pétossiré",
+    "latitude": 13.8518136,
+    "longitude": -2.6475079,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire du Secteur 6",
+    "latitude": 13.7945349,
+    "longitude": -2.7048147,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kalo",
+    "latitude": 13.7287246,
+    "longitude": -2.6758441,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité Bokinda",
+    "latitude": 13.6854185,
+    "longitude": -2.814572,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Noden",
+    "latitude": 13.7345623,
+    "longitude": -2.5702617,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Wouro-Narain",
+    "latitude": 13.6649431,
+    "longitude": -2.541149,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Birgondogo",
+    "latitude": 13.6306288,
+    "longitude": -2.858972,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Douma",
+    "latitude": 13.6069565,
+    "longitude": -2.7570292,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tougué-Mossi",
+    "latitude": 13.5257917,
+    "longitude": -2.669321,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Touya",
+    "latitude": 13.6454238,
+    "longitude": -2.6172513,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pella-Tibitiguia",
+    "latitude": 13.6219498,
+    "longitude": -2.6432003,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Namsiguia",
+    "latitude": 13.5892757,
+    "longitude": -2.5665709,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bonsomnoré",
+    "latitude": 13.5898441,
+    "longitude": -2.5354144,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Tangaye",
+    "latitude": 13.5408852,
+    "longitude": -2.5465724,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Ninga",
+    "latitude": 13.4185041,
+    "longitude": -2.5134109,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gandafagou-Kelwélé",
+    "latitude": 14.7394962,
+    "longitude": -0.7075426,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Déou",
+    "latitude": 14.5965906,
+    "longitude": -0.7192598,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Boukessi",
+    "latitude": 14.439657,
+    "longitude": -0.6686908,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soukoundou",
+    "latitude": 14.6933814,
+    "longitude": -0.249204,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS d'Oursi",
+    "latitude": 14.666,
+    "longitude": -0.4398367,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Roba",
+    "latitude": 13.6625662,
+    "longitude": -2.4919197,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bissigaye",
+    "latitude": 13.5904606,
+    "longitude": -2.4759632,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bembela",
+    "latitude": 13.5572881,
+    "longitude": -2.4858378,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soubo",
+    "latitude": 13.5044262,
+    "longitude": -2.4891463,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sissamba",
+    "latitude": 13.500634,
+    "longitude": -2.4647127,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Somiaga",
+    "latitude": 13.502371,
+    "longitude": -2.4092808,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Urbain (Secteur 15)",
+    "latitude": 13.5455464,
+    "longitude": -2.370197,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Universitaire de Ouahigouya",
+    "latitude": 13.5429674,
+    "longitude": -2.393999,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de KOUAKOUALE",
+    "latitude": 11.0607268,
+    "longitude": -4.2528938,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Urbain",
+    "latitude": 13.5471005,
+    "longitude": -2.441057,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS d'Aoréma",
+    "latitude": 13.6752038,
+    "longitude": -2.34424,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical de Youba",
+    "latitude": 13.6673682,
+    "longitude": -2.3656721,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Bendogo",
+    "latitude": 13.633053,
+    "longitude": -2.3621008,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kononga",
+    "latitude": 13.610584,
+    "longitude": -2.3178095,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sodin",
+    "latitude": 13.702653,
+    "longitude": -2.4245788,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nango-Foulcé",
+    "latitude": 13.450899,
+    "longitude": -2.5977999,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Samni",
+    "latitude": 13.9309471,
+    "longitude": -2.5645982,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Goutoula",
+    "latitude": 13.6083356,
+    "longitude": -2.5797701,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Wendy na Tiip",
+    "latitude": 12.1971213,
+    "longitude": -1.5454001,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pitmoaga",
+    "latitude": 12.2488514,
+    "longitude": -1.8884924,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Manéga",
+    "latitude": 12.257484,
+    "longitude": -1.794308,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité de Douré",
+    "latitude": 12.2106585,
+    "longitude": -1.9060475,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Goulouré",
+    "latitude": 12.2279364,
+    "longitude": -1.9391647,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Reboutair",
+    "latitude": 10.6326163,
+    "longitude": -3.7758337,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tanghin",
+    "latitude": 12.2466156,
+    "longitude": -1.9702622,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tanghin-Wobdo",
+    "latitude": 12.1568999,
+    "longitude": -2.0394284,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kamsé",
+    "latitude": 12.0528875,
+    "longitude": -2.0926702,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Madame voyante",
+    "latitude": 12.4221601,
+    "longitude": -1.4171364,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koukin",
+    "latitude": 11.9797342,
+    "longitude": -2.1306315,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Nariou",
+    "latitude": 12.089511,
+    "longitude": -2.1513382,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du Secteur 1",
+    "latitude": 12.1919716,
+    "longitude": -2.1022283,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Gogo",
+    "latitude": 12.1289866,
+    "longitude": -2.1968566,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1739061,
+    "longitude": -2.1876727,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "H",
+    "latitude": 10.5989859,
+    "longitude": -3.8170642,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pig-Poré",
+    "latitude": 11.6819297,
+    "longitude": -2.7406731,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 11.6031951,
+    "longitude": -2.761825,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé St Jean de Malte de l'Ordre De Malte",
+    "latitude": 12.402784,
+    "longitude": -1.5050827,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Thyou",
+    "latitude": 11.9486877,
+    "longitude": -2.1973166,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sogpelcé",
+    "latitude": 12.03162,
+    "longitude": -2.1886584,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Sabou",
+    "latitude": 12.0598963,
+    "longitude": -2.2236961,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Goumogo",
+    "latitude": 11.9542442,
+    "longitude": -2.2490215,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Moukouan",
+    "latitude": 12.0118279,
+    "longitude": -2.233344,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Sabou",
+    "latitude": 12.0510526,
+    "longitude": -2.2576274,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical Don Orione",
+    "latitude": 12.42239,
+    "longitude": -1.5497783,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Namanéguéma",
+    "latitude": 12.1235964,
+    "longitude": -2.241848,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Medical avec Antenne chirurgicale",
+    "latitude": 13.3301439,
+    "longitude": -1.5294184,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zinou",
+    "latitude": 11.8632009,
+    "longitude": -2.2730246,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.4292418,
+    "longitude": -3.556353,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9700195,
+    "longitude": 1.5637064,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical",
+    "latitude": 11.9246342,
+    "longitude": 1.6257378,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9734357,
+    "longitude": 1.7282613,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8728211,
+    "longitude": 1.7783689,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9572067,
+    "longitude": 1.9903225,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.2243063,
+    "longitude": -3.3506477,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Polyclinique International du Cœur",
+    "latitude": 12.3099336,
+    "longitude": -1.4937382,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8822244,
+    "longitude": 1.8644813,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service d'Hyhiene",
+    "latitude": 12.3868789,
+    "longitude": -1.5565453,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Suka",
+    "latitude": 12.3368586,
+    "longitude": -1.5597021,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2402146,
+    "longitude": -1.4638183,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5179956,
+    "longitude": -1.4464147,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMU",
+    "latitude": 12.4730745,
+    "longitude": -3.4635261,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Régional de Goaua",
+    "latitude": 10.3214791,
+    "longitude": -3.17984,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5182823,
+    "longitude": -1.4952108,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS DE AVV4",
+    "latitude": 11.1683631,
+    "longitude": -0.8651287,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5341784,
+    "longitude": -1.4664052,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.5293476,
+    "longitude": -1.5171392,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4832687,
+    "longitude": -1.5012914,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5069861,
+    "longitude": -1.5658776,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5042759,
+    "longitude": -1.5804487,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Poa",
+    "latitude": 12.2070749,
+    "longitude": -2.1085221,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2003269,
+    "longitude": -2.1584058,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2303088,
+    "longitude": -2.0706493,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.26013,
+    "longitude": -2.082455,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2400521,
+    "longitude": -2.1090424,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2570856,
+    "longitude": -2.1446688,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.278339,
+    "longitude": -2.1692272,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Mangodara",
+    "latitude": 9.9041619,
+    "longitude": -4.360427,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2962257,
+    "longitude": -2.1353656,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Barbayenli",
+    "latitude": 12.357657,
+    "longitude": 1.0421744,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3087602,
+    "longitude": -2.0595235,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3553901,
+    "longitude": -2.1036485,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.800339,
+    "longitude": -4.8577002,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du Secteur 7 de Koudougou",
+    "latitude": 12.2373948,
+    "longitude": -2.363182,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du Secteur 3 Kaya",
+    "latitude": 13.0879835,
+    "longitude": -1.0920026,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical de Gaoua",
+    "latitude": 10.3294062,
+    "longitude": -3.1785375,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.4269861,
+    "longitude": -2.4036536,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Dafra",
+    "latitude": 11.1969817,
+    "longitude": -4.2549422,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dépôt privé",
+    "latitude": 11.0872931,
+    "longitude": -4.1149001,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "ASBC Zoyona",
+    "latitude": 11.0815822,
+    "longitude": -4.1663504,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "algado Ouédraogo University Hospital",
+    "latitude": 12.3838696,
+    "longitude": -1.5066426,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Sabtenga Centre de Santé Et de Promotion Sociale",
+    "latitude": 11.8361234,
+    "longitude": -0.515013,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2028122,
+    "longitude": -1.579797,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2177536,
+    "longitude": -1.6959018,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2432578,
+    "longitude": -1.6866669,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité",
+    "latitude": 12.0373059,
+    "longitude": -1.5066129,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.037727,
+    "longitude": -1.5086031,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0166813,
+    "longitude": -1.5512958,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.978278,
+    "longitude": -1.4641817,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0925639,
+    "longitude": -1.4341584,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9876357,
+    "longitude": -1.3816729,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.9328614,
+    "longitude": -1.4204121,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.1202345,
+    "longitude": -1.3675055,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1386511,
+    "longitude": -1.3897651,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koubri",
+    "latitude": 12.1889933,
+    "longitude": -1.3998234,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3568966,
+    "longitude": -1.1673886,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8036245,
+    "longitude": 1.6623929,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8218081,
+    "longitude": 1.5308346,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.7649168,
+    "longitude": 1.6958106,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical",
+    "latitude": 11.8557211,
+    "longitude": 1.695246,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.7871792,
+    "longitude": 1.6471861,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7624931,
+    "longitude": 1.5102795,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7181055,
+    "longitude": 1.6115946,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Universitaire  (CHU) Sanousouro",
+    "latitude": 11.1702526,
+    "longitude": -4.3012048,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.5895665,
+    "longitude": 1.5265846,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinic Aminat",
+    "latitude": 12.3425489,
+    "longitude": -1.6365197,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25474060"
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6060931,
+    "longitude": 1.5912755,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6575979,
+    "longitude": 1.7027199,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6257741,
+    "longitude": 1.6661681,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.6780264,
+    "longitude": 1.7217529,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7197824,
+    "longitude": 1.7716205,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6557722,
+    "longitude": 1.8102162,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6098739,
+    "longitude": 1.8246035,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Dépistage et de Prise en Charge Précoce des Cancers Gynécologiques",
+    "latitude": 12.1888652,
+    "longitude": -1.6289377,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8370962,
+    "longitude": 1.9142255,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.8027844,
+    "longitude": 1.8769415,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7341045,
+    "longitude": 1.8208753,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8156122,
+    "longitude": 1.7398632,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 11.7924935,
+    "longitude": 1.7389821,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8252288,
+    "longitude": 1.7963639,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.6269944,
+    "longitude": 2.0160153,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9329545,
+    "longitude": 1.4958358,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5949259,
+    "longitude": -1.5589133,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6787245,
+    "longitude": -1.563811,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6074511,
+    "longitude": -1.554713,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6157682,
+    "longitude": -1.5881574,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5974493,
+    "longitude": -1.7687921,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6726979,
+    "longitude": -1.7946875,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.6661923,
+    "longitude": -1.5381382,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6022487,
+    "longitude": -1.6027004,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6224491,
+    "longitude": -1.6328658,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.5931615,
+    "longitude": -1.6722983,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Dafra - Médecins Sans Frontières",
+    "latitude": 11.1969569,
+    "longitude": -4.2549201,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6678462,
+    "longitude": -1.6719952,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.673797,
+    "longitude": -1.7429182,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6260218,
+    "longitude": -1.7247476,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6312643,
+    "longitude": -1.8160459,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6260572,
+    "longitude": -1.8562026,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5509218,
+    "longitude": -1.6407448,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5469762,
+    "longitude": -1.6530159,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4992429,
+    "longitude": -1.8269974,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.5294995,
+    "longitude": -1.7723179,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.5367914,
+    "longitude": -1.6851273,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5279075,
+    "longitude": -1.686502,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4506953,
+    "longitude": -1.6707547,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4608521,
+    "longitude": -1.7350674,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4596827,
+    "longitude": -1.7777118,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4155416,
+    "longitude": -1.8114017,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.4169784,
+    "longitude": -1.7455669,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5553581,
+    "longitude": -1.8877991,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5679991,
+    "longitude": -1.8581741,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.6127986,
+    "longitude": -1.8714617,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4397969,
+    "longitude": -1.943754,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3179175,
+    "longitude": -1.9104221,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3043995,
+    "longitude": -1.8350078,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2533676,
+    "longitude": -1.1185697,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8169381,
+    "longitude": -1.4128241,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8985117,
+    "longitude": -1.4045146,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9005825,
+    "longitude": -1.3584839,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0009061,
+    "longitude": -1.2473103,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9520006,
+    "longitude": -1.3122681,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8813464,
+    "longitude": -1.4273161,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.0860385,
+    "longitude": -1.2393442,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1088162,
+    "longitude": -1.3003323,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Nitaoré",
+    "latitude": 11.8687041,
+    "longitude": -1.4704863,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9072121,
+    "longitude": -1.2821925,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0383946,
+    "longitude": 1.8957773,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.0703409,
+    "longitude": 1.7968896,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0759447,
+    "longitude": 1.881748,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8479734,
+    "longitude": -1.5586638,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6206116,
+    "longitude": -0.3773975,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7467846,
+    "longitude": -0.257704,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8538469,
+    "longitude": -0.1653086,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8483645,
+    "longitude": -0.1092437,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 11.8641564,
+    "longitude": -0.0550953,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7244072,
+    "longitude": -0.4406615,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6769574,
+    "longitude": -0.5022115,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7017208,
+    "longitude": -0.4330882,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7335622,
+    "longitude": -0.5606487,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.6753472,
+    "longitude": -0.4664227,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.6163502,
+    "longitude": -0.5001542,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7255628,
+    "longitude": -0.1982394,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8092876,
+    "longitude": -0.0139649,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.777241,
+    "longitude": 0.0445703,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0560929,
+    "longitude": -1.2783998,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0076172,
+    "longitude": -1.3171832,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1310976,
+    "longitude": -1.5012431,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.9071202,
+    "longitude": -1.2251526,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.0419097,
+    "longitude": -1.2280279,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6041137,
+    "longitude": -1.3547248,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5606269,
+    "longitude": -1.3580695,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5316237,
+    "longitude": -1.3699549,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8658408,
+    "longitude": -1.7917559,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8082495,
+    "longitude": -1.7729241,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7881907,
+    "longitude": -1.8386918,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8014518,
+    "longitude": -1.8464837,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7976279,
+    "longitude": -1.8226616,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7219518,
+    "longitude": -1.8912135,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.693339,
+    "longitude": -1.922366,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.7706023,
+    "longitude": -1.9351414,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3687561,
+    "longitude": -1.0771255,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5224574,
+    "longitude": -1.0200401,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4881475,
+    "longitude": -0.9667271,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.344375,
+    "longitude": -1.0107154,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.2651387,
+    "longitude": -0.9254104,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3026319,
+    "longitude": -0.9222105,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.271146,
+    "longitude": -0.8915475,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3602188,
+    "longitude": -0.9124339,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4782301,
+    "longitude": -0.8933634,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.4400942,
+    "longitude": -0.9017989,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3845867,
+    "longitude": -0.9028074,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4291849,
+    "longitude": -0.8669034,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3982092,
+    "longitude": -0.7945749,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3639786,
+    "longitude": -0.7900943,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.3348425,
+    "longitude": -0.8334616,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3239943,
+    "longitude": -0.7646616,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3142331,
+    "longitude": -0.8057074,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 11.3593669,
+    "longitude": -1.3737121,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.1891322,
+    "longitude": -1.6254187,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.2138028,
+    "longitude": -1.3069533,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.3031786,
+    "longitude": -1.4635366,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.3789284,
+    "longitude": -1.5609719,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.3780606,
+    "longitude": -1.4669001,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.4358353,
+    "longitude": -1.432317,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.4279273,
+    "longitude": -1.3733085,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.3971225,
+    "longitude": -1.3711587,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7655273,
+    "longitude": -0.7651015,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 11.7580763,
+    "longitude": -0.710253,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7431213,
+    "longitude": -0.8518696,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.7762603,
+    "longitude": -0.7798992,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.806862,
+    "longitude": -1.0044591,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7288367,
+    "longitude": -0.9604454,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7624721,
+    "longitude": -1.0386211,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.699959,
+    "longitude": -1.0015985,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6494198,
+    "longitude": -1.017091,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.7327885,
+    "longitude": -1.0564296,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8176337,
+    "longitude": -1.0712394,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.756369,
+    "longitude": -1.0836768,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.7999871,
+    "longitude": -1.1768004,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8302813,
+    "longitude": -1.1455473,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS (construction)",
+    "latitude": 12.8843769,
+    "longitude": -1.1600688,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.8264918,
+    "longitude": -1.0692894,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8620231,
+    "longitude": -1.2246376,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.850763,
+    "longitude": -1.2800708,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.8328102,
+    "longitude": -1.2705034,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.8950394,
+    "longitude": -1.2964994,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.9465527,
+    "longitude": -1.2656406,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.0330587,
+    "longitude": -2.4669832,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.0645973,
+    "longitude": -2.3767175,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3909003,
+    "longitude": -1.6744763,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.344692,
+    "longitude": -1.6790709,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3999487,
+    "longitude": -1.7282291,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3652466,
+    "longitude": -1.7152633,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3826742,
+    "longitude": -1.7580271,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3462825,
+    "longitude": -1.7580539,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS?",
+    "latitude": 12.3272619,
+    "longitude": -1.7807695,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS?",
+    "latitude": 12.2950787,
+    "longitude": -1.7745593,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1885712,
+    "longitude": -1.6524446,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2324346,
+    "longitude": -1.7580432,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.266731,
+    "longitude": -1.7195454,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3197034,
+    "longitude": -1.708657,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3000978,
+    "longitude": -1.6800298,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2944371,
+    "longitude": -1.7082533,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2763301,
+    "longitude": -1.716198,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2638466,
+    "longitude": -1.6758227,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2413719,
+    "longitude": -1.6470064,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.4352708,
+    "longitude": -2.0372061,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5057894,
+    "longitude": -1.9791296,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4506177,
+    "longitude": -2.1119739,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3963493,
+    "longitude": -2.0914391,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3790982,
+    "longitude": -2.1098417,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3705285,
+    "longitude": -2.076467,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3592185,
+    "longitude": -2.2054247,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3918642,
+    "longitude": -2.207136,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4604396,
+    "longitude": -2.1888274,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4188566,
+    "longitude": -2.1606293,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3660746,
+    "longitude": -2.1590093,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.577383,
+    "longitude": -2.4503723,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4962589,
+    "longitude": -2.3868388,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5821487,
+    "longitude": -2.3668054,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.9335056,
+    "longitude": -1.2246913,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Ophtalmologique la Providence",
+    "latitude": 12.3563365,
+    "longitude": -1.5406474,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.071495,
+    "longitude": -1.3144366,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.937232,
+    "longitude": -1.3713947,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 11.8537589,
+    "longitude": -1.3577181,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital de Bittou",
+    "latitude": 11.2746799,
+    "longitude": -0.3115963,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.232571,
+    "longitude": -0.1192658,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.19533,
+    "longitude": -0.1313317,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2032657,
+    "longitude": -0.1557693,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1671192,
+    "longitude": -0.1362562,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.188254,
+    "longitude": -0.1762077,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.1992074,
+    "longitude": -0.1895088,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2410114,
+    "longitude": -0.0590891,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5315653,
+    "longitude": -2.3123941,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2227736,
+    "longitude": 0.0340466,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2747589,
+    "longitude": -0.1496351,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.299419,
+    "longitude": -0.0920936,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2810044,
+    "longitude": -0.205657,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1824258,
+    "longitude": -0.2336124,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1929626,
+    "longitude": -0.2628163,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2217631,
+    "longitude": -0.2832225,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4996781,
+    "longitude": -2.3651397,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4859696,
+    "longitude": -2.3280636,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4298569,
+    "longitude": -2.3736973,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4167678,
+    "longitude": -2.3070028,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.3858883,
+    "longitude": -2.3468605,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.500664,
+    "longitude": -2.2671828,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4495634,
+    "longitude": -2.2502822,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4408373,
+    "longitude": -2.1949804,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4804948,
+    "longitude": -2.1743435,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4800644,
+    "longitude": -2.1631426,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.4154607,
+    "longitude": -2.0893845,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 13.1111569,
+    "longitude": -2.6940885,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 13.0966661,
+    "longitude": -2.6302546,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.4972009,
+    "longitude": -2.9105334,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Masroor Medical Complex",
+    "latitude": 12.2341018,
+    "longitude": -1.4279115,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Masroor Eye Institute",
+    "latitude": 12.2346667,
+    "longitude": -1.4283836,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.198109,
+    "longitude": -1.3445109,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2024399,
+    "longitude": -1.2603083,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1729504,
+    "longitude": -1.1075592,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1956302,
+    "longitude": -1.1604966,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.1329241,
+    "longitude": -1.3242736,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.068754,
+    "longitude": -1.4600524,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Mission Catholique",
+    "latitude": 12.3597762,
+    "longitude": -1.4913453,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital pédiatrique Charles de Gaulles",
+    "latitude": 12.3747846,
+    "longitude": -1.4715339,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.3850783,
+    "longitude": -1.4769756,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Pissy",
+    "latitude": 12.3355752,
+    "longitude": -1.565434,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire AEAD",
+    "latitude": 12.3459007,
+    "longitude": -1.5838005,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3486614,
+    "longitude": -1.5744191,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "maternité de Goughin",
+    "latitude": 12.3560931,
+    "longitude": -1.5495481,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité SMI",
+    "latitude": 12.3470145,
+    "longitude": -1.5448406,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.3459408,
+    "longitude": -1.5256151,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité Yennenga",
+    "latitude": 12.353235,
+    "longitude": -1.5188967,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical",
+    "latitude": 12.3774909,
+    "longitude": -1.5472162,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité de Pogbi",
+    "latitude": 12.3774231,
+    "longitude": -1.5364188,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical Paul VI",
+    "latitude": 12.3995486,
+    "longitude": -1.5576671,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.381683,
+    "longitude": -1.5275521,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire CMU PAUL V",
+    "latitude": 12.3853838,
+    "longitude": -1.57346,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire maternité",
+    "latitude": 12.3948604,
+    "longitude": -1.5757048,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Polyclinique Notre Dame de la Paix",
+    "latitude": 12.400722,
+    "longitude": -1.5038468,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Institut MédicoPsyco Educatif",
+    "latitude": 12.3980334,
+    "longitude": -1.5069931,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "District Sanitaire de Nongremasson",
+    "latitude": 12.418045,
+    "longitude": -1.4668545,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3947215,
+    "longitude": -1.5252328,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital Saint Camille de Ouagadougou",
+    "latitude": 12.3669522,
+    "longitude": -1.4952733,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Régional de Dori",
+    "latitude": 14.0350506,
+    "longitude": -0.0346028,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hopital de l'Amitié",
+    "latitude": 12.2614428,
+    "longitude": -2.358614,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CHR Banfora",
+    "latitude": 10.6424126,
+    "longitude": -4.7439219,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Régional de Kaya",
+    "latitude": 13.0858708,
+    "longitude": -1.1031742,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Tougan",
+    "latitude": 13.068265,
+    "longitude": -3.0714227,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "District Sanitaire de Tougan",
+    "latitude": 13.0698399,
+    "longitude": -3.0760206,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS KARPALA",
+    "latitude": 12.317107,
+    "longitude": -1.4626288,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Cissin",
+    "latitude": 12.3362938,
+    "longitude": -1.5495436,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Polyclinique Nafi",
+    "latitude": 12.3334849,
+    "longitude": -1.5553035,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Sandof",
+    "latitude": 12.3601128,
+    "longitude": -1.4951347,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "dispensaire de kera",
+    "latitude": 12.6964973,
+    "longitude": -2.7242669,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "maternité de Kéra",
+    "latitude": 12.6958267,
+    "longitude": -2.7241275,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du Secteur 29",
+    "latitude": 12.315044,
+    "longitude": -1.5312018,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital Saint Camille",
+    "latitude": 12.6889612,
+    "longitude": -2.1909894,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier regional de Koudougou",
+    "latitude": 12.2568055,
+    "longitude": -2.365602,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Infirmérie de l'université",
+    "latitude": 12.3786673,
+    "longitude": -1.4999882,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soum",
+    "latitude": 12.599897,
+    "longitude": -2.2963894,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6242314,
+    "longitude": -2.1316649,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical Internationnal (CMI);CMI (Centre Médical International)",
+    "latitude": 12.3732545,
+    "longitude": -1.5074374,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Somassi",
+    "latitude": 12.5833936,
+    "longitude": -2.0876745,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.517364,
+    "longitude": -2.1845949,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Godo",
+    "latitude": 12.7275331,
+    "longitude": -2.1524504,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Séguédin",
+    "latitude": 12.6838898,
+    "longitude": -2.0188105,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Urbain",
+    "latitude": 12.6868703,
+    "longitude": -2.1968924,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique FRANY",
+    "latitude": 12.3824282,
+    "longitude": -1.4900067,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.5557104,
+    "longitude": -2.2018776,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Social",
+    "latitude": 12.1921927,
+    "longitude": -1.8004912,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Gourcy",
+    "latitude": 13.2180448,
+    "longitude": -2.3597881,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Sebba",
+    "latitude": 13.4436342,
+    "longitude": 0.5234771,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Boussouma Hospital",
+    "latitude": 12.9087619,
+    "longitude": -1.0841554,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinic",
+    "latitude": 12.7498956,
+    "longitude": -1.6742632,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternity Ward",
+    "latitude": 12.7502534,
+    "longitude": -1.6753878,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS De Iolonioro",
+    "latitude": 10.7524767,
+    "longitude": -3.4008817,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kaya",
+    "latitude": 11.0549619,
+    "longitude": -1.0199121,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Laongo",
+    "latitude": 12.5438,
+    "longitude": -1.2791322,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Medical avec Antenne chirurgical de Dano;CMA de Dano",
+    "latitude": 11.1480701,
+    "longitude": -3.0744184,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Yelbouga",
+    "latitude": 11.1189935,
+    "longitude": -1.9190272,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Ouargaye",
+    "latitude": 11.5049547,
+    "longitude": 0.0559357,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital Sanousouro",
+    "latitude": 11.1704942,
+    "longitude": -4.301255,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical avec Antenne chirurgicale du sect22",
+    "latitude": 11.2024861,
+    "longitude": -4.319826,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Siloe",
+    "latitude": 11.2048863,
+    "longitude": -4.3024981,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical Urbain du Secteur 52",
+    "latitude": 12.3298374,
+    "longitude": -1.5244213,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.3849923,
+    "longitude": -1.4763854,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Yako",
+    "latitude": 12.9658943,
+    "longitude": -2.2680903,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.356886,
+    "longitude": -1.5450238,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dapoya",
+    "latitude": 12.380483,
+    "longitude": -1.5193055,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CHU Yalgado Ouédraogo",
+    "latitude": 12.3835648,
+    "longitude": -1.5066309,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Loroni",
+    "latitude": 13.6161709,
+    "longitude": -3.1375351,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kona",
+    "latitude": 12.7717382,
+    "longitude": -2.2426645,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "kawara",
+    "latitude": 13.0063127,
+    "longitude": -2.8953399,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Séguénéga",
+    "latitude": 13.4369606,
+    "longitude": -1.9681585,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Antoine de Padou",
+    "latitude": 12.3610527,
+    "longitude": -1.5342963,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sikoro",
+    "latitude": 12.6239257,
+    "longitude": -3.775886,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Goni",
+    "latitude": 12.5719854,
+    "longitude": -3.9680143,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité de Goni",
+    "latitude": 12.5713863,
+    "longitude": -3.9679274,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CHR DEDOUGOU",
+    "latitude": 12.4610972,
+    "longitude": -3.4655633,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zogoré",
+    "latitude": 13.4020363,
+    "longitude": -2.5930378,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sarfalao",
+    "latitude": 11.1603132,
+    "longitude": -4.2693372,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kua",
+    "latitude": 11.1734637,
+    "longitude": -4.248311,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Belga",
+    "latitude": 12.8776668,
+    "longitude": -0.489762,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Saint Camille",
+    "latitude": 12.0862536,
+    "longitude": -0.3160261,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA",
+    "latitude": 12.0541533,
+    "longitude": -1.6022801,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de santé et de promotion sociale urbain de Sapone",
+    "latitude": 12.042071,
+    "longitude": -1.6072424,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Saint Louis à Temnaore",
+    "latitude": 12.5792801,
+    "longitude": -1.9284554,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CREN - Centro Recupero e Educazione alla Nutrizione",
+    "latitude": 12.2551866,
+    "longitude": -2.3612704,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bassemyam",
+    "latitude": 12.2089585,
+    "longitude": -1.5441316,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sabtoana",
+    "latitude": 12.2390197,
+    "longitude": -1.4948188,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical Urbain de Nanoro",
+    "latitude": 12.6877021,
+    "longitude": -2.1834271,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Medico Chirurgical Clinique Dr. Sedogo",
+    "latitude": 11.0850097,
+    "longitude": -2.1005706,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé et de Promotion Sociale de Lah",
+    "latitude": 12.0670366,
+    "longitude": -3.5021936,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Poesse",
+    "latitude": 12.5494391,
+    "longitude": -2.1150763,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "PSP de Ouazellé",
+    "latitude": 13.1855721,
+    "longitude": -1.5673448,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "PSP (poste santé primaire) de Bogonam",
+    "latitude": 13.3820234,
+    "longitude": -1.6783195,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de Ténado",
+    "latitude": 12.19271,
+    "longitude": -2.6066351,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité de Ténado",
+    "latitude": 12.1935734,
+    "longitude": -2.6064827,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Batié",
+    "latitude": 9.8779405,
+    "longitude": -2.9197629,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Trame d'Accueil",
+    "latitude": 12.3832429,
+    "longitude": -1.453819,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tchériba",
+    "latitude": 12.2643197,
+    "longitude": -3.0896433,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Goala",
+    "latitude": 12.5589776,
+    "longitude": -2.0892853,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.6402781,
+    "longitude": -2.009228,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dagouma",
+    "latitude": 11.9073472,
+    "longitude": -1.2823038,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de l'Université",
+    "latitude": 12.4748332,
+    "longitude": -1.3612697,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4676628,
+    "longitude": -1.3936034,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical avec Antenne chirurgicale",
+    "latitude": 11.1673975,
+    "longitude": -1.1375195,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité Guimbi Ouattara",
+    "latitude": 11.1730317,
+    "longitude": -4.2810832,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS NIOKO1",
+    "latitude": 12.3925926,
+    "longitude": -1.4358361,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical de Saaba",
+    "latitude": 12.363599,
+    "longitude": -1.4144958,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tanlarghin",
+    "latitude": 12.2980523,
+    "longitude": -1.3885441,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Caisse",
+    "latitude": 12.3670655,
+    "longitude": -1.4950144,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet International de Médecine Préventive et de suivi psycho-nutritionnel - CIMPE - VITRINE SCIENTIFIQUE DU MUNG BEAN;CIMEP - Vitrine scientifique du Mung Bean - Cabinet inernational de médecine préventive",
+    "latitude": 12.3311965,
+    "longitude": -1.5843498,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.4295211,
+    "longitude": -5.4708093,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital National Blaise Compaoré (HNBC)",
+    "latitude": 12.2626091,
+    "longitude": -1.5385031,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kamboincin",
+    "latitude": 12.4644044,
+    "longitude": -1.5545749,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Boromo",
+    "latitude": 11.7419815,
+    "longitude": -2.9342377,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "SHIPRA pôle II",
+    "latitude": 12.4264895,
+    "longitude": -1.5361782,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Nôtre Dame de la Délivarnce",
+    "latitude": 12.4570127,
+    "longitude": -3.4745911,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pissy",
+    "latitude": 12.0761716,
+    "longitude": -1.4886808,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical de niangoloko",
+    "latitude": 10.2727619,
+    "longitude": -4.9162995,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bagala",
+    "latitude": 12.5940621,
+    "longitude": -3.8345221,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dara",
+    "latitude": 12.6329446,
+    "longitude": -3.9182769,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Kéména",
+    "latitude": 12.6972934,
+    "longitude": -4.0005475,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Solimana",
+    "latitude": 12.8898311,
+    "longitude": -3.6159799,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koro",
+    "latitude": 12.807457,
+    "longitude": -3.6071715,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Konankoïra",
+    "latitude": 12.9049614,
+    "longitude": -3.8920865,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Toni",
+    "latitude": 12.6538584,
+    "longitude": -3.9912745,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Dembo",
+    "latitude": 12.8004972,
+    "longitude": -3.9666613,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Konkuy-Koro",
+    "latitude": 12.8451276,
+    "longitude": -4.115953,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Lamdamaol",
+    "latitude": 13.7633085,
+    "longitude": -0.3997417,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bélogo",
+    "latitude": 13.7701861,
+    "longitude": -0.5660118,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Barga-Mossi",
+    "latitude": 13.6433986,
+    "longitude": -0.7354657,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pensa",
+    "latitude": 13.6445194,
+    "longitude": -0.8070096,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Retkoulga",
+    "latitude": 13.6441831,
+    "longitude": -0.6092947,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bouroum",
+    "latitude": 13.6107222,
+    "longitude": -0.6493319,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Don Orion",
+    "latitude": 12.4214045,
+    "longitude": -1.5496293,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Don Orion",
+    "latitude": 12.4213338,
+    "longitude": -1.5495663,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Damkarko 2",
+    "latitude": 13.4829518,
+    "longitude": -0.5836326,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Koulwoko",
+    "latitude": 13.4842311,
+    "longitude": -0.7032877,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pélga",
+    "latitude": 13.3919366,
+    "longitude": -0.6089834,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pibaoré",
+    "latitude": 12.8914979,
+    "longitude": -0.812763,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Soudougou",
+    "latitude": 12.8334,
+    "longitude": -0.7415114,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Boala",
+    "latitude": 12.8657994,
+    "longitude": -0.6999232,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zaongo",
+    "latitude": 12.9154489,
+    "longitude": -0.5854806,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Tébéré",
+    "latitude": 13.0504464,
+    "longitude": -0.6952246,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Lafia",
+    "latitude": 12.3211489,
+    "longitude": -1.5191115,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Nina",
+    "latitude": 12.3756729,
+    "longitude": -1.4954646,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique des yeux Simignan",
+    "latitude": 12.3696408,
+    "longitude": -1.4986166,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Moussa Koné",
+    "latitude": 12.3702929,
+    "longitude": -1.4979894,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Saint Marc",
+    "latitude": 12.3722078,
+    "longitude": -1.4948724,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Suka",
+    "latitude": 12.3367839,
+    "longitude": -1.5596612,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.3564408,
+    "longitude": -1.5473299,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre d´accueil du jour ( croix rouge)",
+    "latitude": 12.4114207,
+    "longitude": -1.5010831,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "centre d'essai clinique de Balonghin",
+    "latitude": 12.0376351,
+    "longitude": -1.508015,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet Médical Sainte Cécile",
+    "latitude": 12.3636162,
+    "longitude": -1.5347893,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Croix-Rouge burkinabé",
+    "latitude": 12.3821623,
+    "longitude": -1.4872351,
+    "type_osm": "hospital",
+    "adresse": "Avenue de la croix rouge",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA Saint Camille",
+    "latitude": 12.1671692,
+    "longitude": -0.363729,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA",
+    "latitude": 12.1836481,
+    "longitude": -0.3576992,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Joseph",
+    "latitude": 11.1581363,
+    "longitude": -4.2534108,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA",
+    "latitude": 12.2547139,
+    "longitude": -0.4302288,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Sikoro",
+    "latitude": 12.624078,
+    "longitude": -3.7757475,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Goni",
+    "latitude": 12.5713496,
+    "longitude": -3.9678135,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Malika",
+    "latitude": 13.567412,
+    "longitude": -2.4105241,
+    "type_osm": "hospital",
+    "adresse": "N 2 Avenue de Mopti",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Zinguedessé",
+    "latitude": 12.2456611,
+    "longitude": -1.5822142,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hopital Saint Camille de Ouagadougou Karpala",
+    "latitude": 12.3422548,
+    "longitude": -1.4710401,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Monreé hors Bouls",
+    "latitude": 12.5992971,
+    "longitude": -0.4153381,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "mutuelle sante Afrique",
+    "latitude": 11.4278383,
+    "longitude": -0.7725302,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "clinique philadelphie",
+    "latitude": 12.3692124,
+    "longitude": -1.5114439,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS DE KOMSILGA",
+    "latitude": 12.1786573,
+    "longitude": -1.6355859,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS d'Issaogo",
+    "latitude": 13.0267942,
+    "longitude": -0.745009,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Mourdié",
+    "latitude": 12.7727183,
+    "longitude": -3.7550136,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.4645426,
+    "longitude": -5.4409549,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.3339396,
+    "longitude": -5.3703994,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.390569,
+    "longitude": -5.4195964,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.4555895,
+    "longitude": -5.296264,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 10.4176637,
+    "longitude": -5.2533599,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.1176732,
+    "longitude": -1.7621395,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre hospitalier universitaire",
+    "latitude": 12.48068,
+    "longitude": -3.4422679,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Régional de Ziniaré",
+    "latitude": 12.5878716,
+    "longitude": -1.2759044,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Pazani",
+    "latitude": 12.4407945,
+    "longitude": -1.5789443,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Hôpital de Ouahigouya",
+    "latitude": 13.5783054,
+    "longitude": -2.4125759,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Radiothérapie de Bogodogo",
+    "latitude": 12.3395982,
+    "longitude": -1.4952431,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CHU de Bogodogo",
+    "latitude": 12.3368724,
+    "longitude": -1.4940449,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Sante et de Promotion Social (CSPS)",
+    "latitude": 13.1684537,
+    "longitude": 0.6358374,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Medical Urbain",
+    "latitude": 14.2274468,
+    "longitude": -0.8677164,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Belle Ville",
+    "latitude": 11.1731979,
+    "longitude": -4.3652381,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Consultation externe",
+    "latitude": 12.3368113,
+    "longitude": -1.5648276,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Urgence",
+    "latitude": 12.3366259,
+    "longitude": -1.5651378,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pédiatrie",
+    "latitude": 12.3364038,
+    "longitude": -1.565521,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pédiatrie",
+    "latitude": 12.3366714,
+    "longitude": -1.5656615,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité",
+    "latitude": 12.3361019,
+    "longitude": -1.5641913,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Laboratoire",
+    "latitude": 12.3356013,
+    "longitude": -1.5637456,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Baré",
+    "latitude": 11.0877099,
+    "longitude": -4.1089273,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Bougounam",
+    "latitude": 13.3632185,
+    "longitude": -2.3898938,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Adulte",
+    "latitude": 11.1978855,
+    "longitude": -4.2542401,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Bloque Cirurgical",
+    "latitude": 11.1978267,
+    "longitude": -4.2536438,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pediatria",
+    "latitude": 11.1984317,
+    "longitude": -4.2537098,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service d'Urgence",
+    "latitude": 11.1972959,
+    "longitude": -4.2542323,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Sala de Observação / Urgência",
+    "latitude": 11.1972422,
+    "longitude": -4.2540996,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Salle de Recuperacion post-operatoire",
+    "latitude": 11.197756,
+    "longitude": -4.2533283,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ecographie General",
+    "latitude": 11.1971849,
+    "longitude": -4.2540188,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Salle des Urgences",
+    "latitude": 11.1973857,
+    "longitude": -4.2539802,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Salle de Isolement",
+    "latitude": 11.1987684,
+    "longitude": -4.2539654,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service Tuberculose",
+    "latitude": 11.1984819,
+    "longitude": -4.2543353,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pediatria 1",
+    "latitude": 11.1980851,
+    "longitude": -4.2540439,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pediatria 2",
+    "latitude": 11.1982906,
+    "longitude": -4.254027,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Consultation ORL",
+    "latitude": 11.1984159,
+    "longitude": -4.2541111,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "PICU",
+    "latitude": 11.1979902,
+    "longitude": -4.2543556,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Oftalmologia",
+    "latitude": 11.1982884,
+    "longitude": -4.2542516,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Titao",
+    "latitude": 13.7712519,
+    "longitude": -2.0696511,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Hospitalier Universitaire de Pala",
+    "latitude": 11.1627532,
+    "longitude": -4.233439,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA de Léo",
+    "latitude": 11.109184,
+    "longitude": -2.1046758,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  }
+]

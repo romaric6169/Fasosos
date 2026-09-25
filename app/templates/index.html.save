@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{% block title %}FasoSOS - Accueil{% endblock %mmmmmmmmuuu{% block content %}
+    <span class="navbar-brand mb-0 h1">
+        <img src="{{ url_for('static', filename='img/logo-fasosos.svg') }}" alt="FasoSOS">
+
+
+<div class="conteneur-carte-panneau">
+    <div id="panneau-centres">
+        <div class="panneau-header">Centres de santé proches</div>
+        <div id="liste-centres">
+            <p class="text-muted text-center p-3">Localisation en cours...</p>
+        </div>
+    </div>
+    <div id="carte"></div>
+</div>
+
+<button id="btn-sos" class="btn-sos">SOS</button>
+
+<div id="zone-chatbot-flottant">
+    <button id="btn-chatbot" title="Assistant FasoSOS">
+        <img src="{{ url_for('static', filename='img/logo-chatbot.svg') }}" alt="Assistant FasoSOS" width="30" height="30">
+    </button>
+    <div id="etiquette-chatbot">Poser une question à l'assistant IA</div>
+</div>
+
+<div id="fenetre-chatbot">
+    <div id="chatbot-header">
+        <span class="d-flex align-items-center gap-2">
+            <img src="{{ url_for('static', filename='img/logo-chatbot.svg') }}" alt="" width="22" height="22">
+            Assistant FasoSOS
+        </span>
+        <div>
+            <button id="btn-historique-chatbot" class="btn btn-sm btn-link text-white p-0 me-2" title="Historique">📜</button>
+            <button id="btn-nouvelle-conversation" class="btn btn-sm btn-link text-white p-0 me-2" title="Nouvelle conversation">🔄</button>
+            <button id="btn-fermer-chatbot" class="btn btn-sm btn-link text-white p-0" title="Fermer">✕</button>
+        </div>
+    </div>
+    <div id="chatbot-messages"></div>
+    <div id="chatbot-historique" class="d-none"></div>
+    <div id="chatbot-input-zone">
+        <input type="text" id="chatbot-input" class="form-control form-control-sm" placeholder="Posez votre question...">
+        <button id="btn-envoyer-chatbot" class="btn btn-sm btn-primary">Envoyer</button>
+    </div>
+</div>
+
+<div class="modal fade" id="modalSos" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Déclencher une alerte SOS</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <label class="form-label">Type d'urgence</label>
+          <select id="select-type-urgence" class="form-select">
+            <option value="Accident">Accident</option>
+            <option value="AVC">AVC</option>
+            <option value="Brulure">Brûlure</option>
+            <option value="Fracture">Fracture</option>
+            <option value="Hemorragie">Hémorragie</option>
+            <option value="Morsure">Morsure</option>
+            <option value="Fievre">Fièvre</option>
+            <option value="Autre">Autre</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Type de centre souhaité</label>
+          <select id="select-type-centre" class="form-select">
+            <option value="">Peu importe</option>
+            <option value="CSPS">CSPS</option>
+            <option value="CMA">CMA</option>
+            <option value="CHR">CHR</option>
+            <option value="CHU">CHU</option>
+            <option value="CLINIQUE">Clinique</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Envoyer un SMS d'urgence à (optionnel)</label>
+          <select id="select-contact-urgence" class="form-select">
+            <option value="">Aucun</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Description (optionnel)</label>
+          <textarea id="input-description" class="form-control" rows="2"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+        <button type="button" id="btn-confirmer-sos" class="btn btn-danger">Confirmer l'alerte</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modalCentre" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="titre-centre">Centre de santé</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body fiche-centre" id="corps-fiche-centre"></div>
+      <div class="modal-footer" id="footer-fiche-centre"></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/api.js') }}"></script>
+<script src="{{ url_for('static', filename='js/map.js') }}"></script>
+<script src="{{ url_for('static', filename='js/sos.js') }}"></script>
+<script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Connexion - FasoSOS{% endblock %}
+
+{% block content %}
+<div class="d-flex align-items-center justify-content-center vh-100 bg-light">
+    <div class="card shadow p-4" style="max-width: 400px; width: 100%;">
+        <h3 class="text-center mb-1" style="color:#dc2626;">FasoSOS</h3>
+        <p class="text-center text-muted mb-4">Chaque seconde peut sauver une vie.</p>
+
+        <div id="message-info" class="alert alert-info d-none"></div>
+        <div id="erreur-connexion" class="alert alert-danger d-none"></div>
+
+        <form id="form-connexion">
+            <div class="mb-3">
+                <label class="form-label">Téléphone</label>
+                <input type="text" class="form-control" id="telephone" placeholder="+22670123456" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Mot de passe</label>
+                <input type="password" class="form-control" id="mot_de_passe" required>
+            </div>
+            <button type="submit" class="btn btn-danger w-100">Se connecter</button>
+        </form>
+
+        <p class="text-center text-muted mt-3 mb-0">Pas encore de compte ? <a href="/inscription">Créer un compte</a></p>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/login.js') }}"></script>
+{% endblock %}

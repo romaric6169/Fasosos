@@ -1,0 +1,794 @@
+[
+  {
+    "nom": "Pharmacie de l´avenir",
+    "latitude": 12.3751998,
+    "longitude": -1.4938723,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Talba",
+    "latitude": 12.3762421,
+    "longitude": -1.4909633,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Teranga",
+    "latitude": 12.3817592,
+    "longitude": -1.4934187,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie wend Kuuni",
+    "latitude": 12.3755238,
+    "longitude": -1.4875664,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie circulaire sede",
+    "latitude": 12.3325736,
+    "longitude": -1.5166729,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Kaboré Dominique",
+    "latitude": 12.3299218,
+    "longitude": -1.5262859,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie du Faso",
+    "latitude": 12.3178393,
+    "longitude": -1.5217902,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Kouma",
+    "latitude": 12.3130946,
+    "longitude": -1.5289169,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie de l´amitié",
+    "latitude": 12.3346448,
+    "longitude": -1.5351653,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Saint Julien",
+    "latitude": 12.3344771,
+    "longitude": -1.5262218,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": "25 38 06 10"
+  },
+  {
+    "nom": "Dispensaire de Samandin",
+    "latitude": 12.3503064,
+    "longitude": -1.5269581,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie maignon",
+    "latitude": 12.3505338,
+    "longitude": -1.5264106,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "EX Pharmacie du Goulmou",
+    "latitude": 12.3420654,
+    "longitude": -1.5527006,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie du rivage",
+    "latitude": 12.3539218,
+    "longitude": -1.5525645,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Maré",
+    "latitude": 12.3631848,
+    "longitude": -1.5498232,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie de l´hippodrome",
+    "latitude": 12.375924,
+    "longitude": -1.5573961,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie de la jeunesse",
+    "latitude": 12.3706171,
+    "longitude": -1.5580827,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie de la Savane",
+    "latitude": 12.3769736,
+    "longitude": -1.5208938,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire",
+    "latitude": 12.3911132,
+    "longitude": -1.5187175,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Laafi",
+    "latitude": 12.3263621,
+    "longitude": -1.5479751,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Ophtalmolgique (Mission)",
+    "latitude": 12.3600845,
+    "longitude": -1.5272027,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire de AMPO",
+    "latitude": 12.3593058,
+    "longitude": -1.4885296,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "002",
+    "latitude": 12.3774398,
+    "longitude": -1.5112048,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Saint François d'Assises",
+    "latitude": 12.3820165,
+    "longitude": -1.4890606,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Lazare",
+    "latitude": 12.3685791,
+    "longitude": -1.4997016,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie du Goulmou",
+    "latitude": 12.3392273,
+    "longitude": -1.549132,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet Médical les Opportunités",
+    "latitude": 12.3774087,
+    "longitude": -1.477169,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie du Sahel",
+    "latitude": 12.3662116,
+    "longitude": -1.5149834,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "PHAMACIE DE L'INDEPENDANCE",
+    "latitude": 12.3702719,
+    "longitude": -1.5158385,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie 1200 Logements",
+    "latitude": 12.3668409,
+    "longitude": -1.4938745,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service Biomedical Plus",
+    "latitude": 12.3383253,
+    "longitude": -1.5379444,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "dispensaire de nonsin",
+    "latitude": 12.376945,
+    "longitude": -1.5618685,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Ridwane",
+    "latitude": 12.3426727,
+    "longitude": -1.5456867,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "La Bergerie-foi-univers-compassion",
+    "latitude": 12.3302725,
+    "longitude": -1.5447186,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25-43-35-35"
+  },
+  {
+    "nom": "CSPS de Tampouy",
+    "latitude": 12.3994466,
+    "longitude": -1.5702476,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS \" Jesus Guérit \"",
+    "latitude": 12.3960856,
+    "longitude": -1.5666768,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre medical ECLA",
+    "latitude": 12.388117,
+    "longitude": -1.5784295,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharamacie Ar-Rahama",
+    "latitude": 12.3895185,
+    "longitude": -1.5741417,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins privé ste Fatima",
+    "latitude": 12.4017096,
+    "longitude": -1.5618647,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre medical Amour du prochain",
+    "latitude": 12.4021923,
+    "longitude": -1.5649253,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet médical",
+    "latitude": 12.3762443,
+    "longitude": -1.4910986,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet médical Mâkhy",
+    "latitude": 12.3761732,
+    "longitude": -1.4892209,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "SOS Santé Cabinet privé polyvalent",
+    "latitude": 12.3776451,
+    "longitude": -1.4907215,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Pédiatrique Médica",
+    "latitude": 12.3529145,
+    "longitude": -1.5398678,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie du Sacré-Coeur",
+    "latitude": 12.3512132,
+    "longitude": -1.5462563,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins infirmiers, ophtalmologie",
+    "latitude": 12.3474417,
+    "longitude": -1.5478832,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet de soins infirmiers",
+    "latitude": 12.3468074,
+    "longitude": -1.5503078,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie Sainte Trinité",
+    "latitude": 12.3685354,
+    "longitude": -1.4883668,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS du juvenat filles de st camille",
+    "latitude": 12.3782436,
+    "longitude": -1.4751353,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Yati",
+    "latitude": 12.3379203,
+    "longitude": -1.5055196,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Cabinet soins infirmiers",
+    "latitude": 12.3335983,
+    "longitude": -1.5269596,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Horizon Dentaire",
+    "latitude": 12.3319262,
+    "longitude": -1.5224652,
+    "type_osm": "dentist",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Madina",
+    "latitude": 12.3325453,
+    "longitude": -1.5242761,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25 45 81 64"
+  },
+  {
+    "nom": "Clinique Médicale Centre D'or",
+    "latitude": 12.3289011,
+    "longitude": -1.5142287,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25 38 80 58"
+  },
+  {
+    "nom": "Pharmacie De La Cathédrale",
+    "latitude": 12.3632079,
+    "longitude": -1.5281878,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Saint Jean",
+    "latitude": 12.3606171,
+    "longitude": -1.5344882,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Antoine de Padou",
+    "latitude": 12.3611197,
+    "longitude": -1.5341652,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Saint Antoine de Padou",
+    "latitude": 12.3610814,
+    "longitude": -1.5341603,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Ophtalmologie Medecin Généraliste",
+    "latitude": 12.3334779,
+    "longitude": -1.5003531,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "les Tisserins",
+    "latitude": 12.3704364,
+    "longitude": -1.4766689,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CMA EVANGELIQUE SOURCE DE VIE",
+    "latitude": 12.3325535,
+    "longitude": -1.561108,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "0022650431772"
+  },
+  {
+    "nom": "pharmacie de l'avenir",
+    "latitude": 12.3749954,
+    "longitude": -1.4939046,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Association Burkinabé pour le Bien-Etre Familial (ABBEF)",
+    "latitude": 12.3702889,
+    "longitude": -1.5019368,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre médical urbain",
+    "latitude": 12.3721148,
+    "longitude": -1.5251451,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Philadelphie",
+    "latitude": 12.3692331,
+    "longitude": -1.5114753,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Dispensaire Noom Wende",
+    "latitude": 12.3243998,
+    "longitude": -1.4726086,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.2651925,
+    "longitude": -1.6001697,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Boassa",
+    "latitude": 12.2962978,
+    "longitude": -1.6205049,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4127607,
+    "longitude": -1.5087879,
+    "type_osm": "yes",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.2538661,
+    "longitude": -1.5662513,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de Mogden",
+    "latitude": 12.3302504,
+    "longitude": -1.3900012,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique",
+    "latitude": 12.3226148,
+    "longitude": -1.496957,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Pharmacie NOOM-WENDE",
+    "latitude": 12.319006,
+    "longitude": -1.5379561,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "OST",
+    "latitude": 12.3774727,
+    "longitude": -1.5110758,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "+22625324241"
+  },
+  {
+    "nom": "Association Wend kuni poir ke Développement",
+    "latitude": 12.3989999,
+    "longitude": -1.5433308,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique ANAÏA",
+    "latitude": 12.3909416,
+    "longitude": -1.594227,
+    "type_osm": "doctors",
+    "adresse": "Avenue du Yatenga",
+    "telephone": ""
+  },
+  {
+    "nom": "Univers BIO-MEDICAL",
+    "latitude": 12.3684347,
+    "longitude": -1.4985876,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Maternité",
+    "latitude": 12.3826538,
+    "longitude": -1.506702,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS de SONDOGO",
+    "latitude": 12.3194894,
+    "longitude": -1.597535,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service Bio-Médical PLUS",
+    "latitude": 12.3297039,
+    "longitude": -1.5633889,
+    "type_osm": "laboratory",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS Saint Jean Paul ll",
+    "latitude": 12.4145248,
+    "longitude": -1.5979495,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "67430505"
+  },
+  {
+    "nom": "Centre Medical SOURCE D'ESPOIR",
+    "latitude": 12.4230388,
+    "longitude": -1.5983066,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "70257032"
+  },
+  {
+    "nom": "CSPS Privé SOLIDARITE",
+    "latitude": 12.4478759,
+    "longitude": -1.6250965,
+    "type_osm": "doctors",
+    "adresse": "",
+    "telephone": "73035098"
+  },
+  {
+    "nom": "Phcie Coura",
+    "latitude": 12.3274061,
+    "longitude": -1.5207275,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de test Covid-19 pour voyageurs",
+    "latitude": 12.3491054,
+    "longitude": -1.5182198,
+    "type_osm": "alternative",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Esperanza cardiologie",
+    "latitude": 12.3221225,
+    "longitude": -1.5094608,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": "0022672553030"
+  },
+  {
+    "nom": "CMA Kossodo",
+    "latitude": 12.4181127,
+    "longitude": -1.467297,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "El Shada",
+    "latitude": 12.3943196,
+    "longitude": -1.5899674,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Madame voyante",
+    "latitude": 12.4221601,
+    "longitude": -1.4171364,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre de Santé St Jean de Malte de l'Ordre De Malte",
+    "latitude": 12.402784,
+    "longitude": -1.5050827,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Centre Médical Don Orione",
+    "latitude": 12.42239,
+    "longitude": -1.5497783,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Polyclinique International du Cœur",
+    "latitude": 12.3099336,
+    "longitude": -1.4937382,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Service d'Hyhiene",
+    "latitude": 12.3868789,
+    "longitude": -1.5565453,
+    "type_osm": "centre",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinique Suka",
+    "latitude": 12.3368586,
+    "longitude": -1.5597021,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Adodoa",
+    "latitude": 12.3337005,
+    "longitude": -1.5620612,
+    "type_osm": "pharmacy",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "CSPS",
+    "latitude": 12.4832687,
+    "longitude": -1.5012914,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "algado Ouédraogo University Hospital",
+    "latitude": 12.3838696,
+    "longitude": -1.5066426,
+    "type_osm": "hospital",
+    "adresse": "",
+    "telephone": ""
+  },
+  {
+    "nom": "Clinic Aminat",
+    "latitude": 12.3425489,
+    "longitude": -1.6365197,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": "25474060"
+  },
+  {
+    "nom": "Clinique Ophtalmologique la Providence",
+    "latitude": 12.3563365,
+    "longitude": -1.5406474,
+    "type_osm": "clinic",
+    "adresse": "",
+    "telephone": ""
+  }
+]

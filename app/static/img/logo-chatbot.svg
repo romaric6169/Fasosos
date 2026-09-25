@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="34" height="34">
+  <defs>
+    <linearGradient id="degradeAgent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F5C3D"/>
+      <stop offset="100%" stop-color="#164229"/>
+    </linearGradient>
+  </defs>
+  <!-- Bulle de dialogue -->
+  <path d="M32 4C16.536 4 4 15.194 4 29c0 7.02 3.238 13.36 8.47 17.91-.38 3.22-1.55 6.63-3.47 9.59a1.2 1.2 0 0 0 1.36 1.8c5.06-1.35 9.32-3.74 12.24-5.94A34.6 34.6 0 0 0 32 54c15.464 0 28-11.194 28-25S47.464 4 32 4Z" fill="url(#degradeAgent)"/>
+  <!-- Silhouette d'agent (tête + épaules), plus humain qu'une icône robot -->
+  <circle cx="32" cy="22" r="7" fill="#D9A441"/>
+  <path d="M18 40c0-8 6-13 14-13s14 5 14 13" fill="none" stroke="#D9A441" stroke-width="5" stroke-linecap="round"/>
+</svg>

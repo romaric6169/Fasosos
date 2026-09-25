@@ -1,0 +1,615 @@
+/* ============================================
+   FasoSOS — Design system
+   Identité burkinabè : rouge latérite, vert savane,
+   or mil — pensé mobile d'abord, forte lisibilité.
+   ============================================ */
+
+:root {
+    --terre: #A8431E;
+    --terre-fonce: #7E3216;
+    --savane: #1F5C3D;
+    --savane-fonce: #164229;
+    --or: #D9A441;
+    --encre: #211A15;
+    --karite: #FAF6EE;
+    --alerte: #C81E1E;
+    --alerte-fonce: #9E1717;
+    --gris-texte: #5A5048;
+    --bordure: #E6DFD3;
+
+    --police-titre: "Zilla Slab", Georgia, serif;
+    --police-texte: "Work Sans", -apple-system, sans-serif;
+}
+
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    font-family: var(--police-texte);
+    background-color: var(--karite);
+    color: var(--encre);
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
+.modal-title {
+    font-family: var(--police-titre);
+    font-weight: 600;
+    color: var(--encre);
+    letter-spacing: -0.01em;
+}
+
+/* Boutons — larges, contraste fort, pensés pour le pouce */
+.btn {
+    font-family: var(--police-texte);
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-size: 0.95rem;
+    min-height: 44px;
+}
+
+.btn-danger {
+    background-color: var(--terre);
+    border-color: var(--terre);
+}
+
+.btn-danger:hover, .btn-danger:active {
+    background-color: var(--terre-fonce);
+    border-color: var(--terre-fonce);
+}
+
+.btn-outline-danger {
+    color: var(--terre);
+    border-color: var(--terre);
+}
+
+.btn-outline-danger:hover {
+    background-color: var(--terre);
+    border-color: var(--terre);
+}
+
+.btn-success, .btn-outline-success {
+    --bs-btn-color: var(--savane);
+    --bs-btn-border-color: var(--savane);
+    --bs-btn-hover-bg: var(--savane);
+    --bs-btn-hover-border-color: var(--savane);
+}
+
+/* Cartes — bordure haute colorée plutôt qu'ombre générique */
+.card {
+    border: 1px solid var(--bordure);
+    border-top: 3px solid var(--savane);
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.card-header {
+    font-family: var(--police-titre);
+    font-weight: 600;
+    border-bottom: 1px solid var(--bordure);
+}
+
+/* Champs de formulaire — grands, faciles à toucher */
+.form-control, .form-select {
+    min-height: 46px;
+    border-radius: 8px;
+    border-color: var(--bordure);
+    font-size: 1rem;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: var(--savane);
+    box-shadow: 0 0 0 3px rgba(31, 92, 61, 0.15);
+}
+
+.form-label {
+    font-weight: 600;
+    color: var(--encre);
+    font-size: 0.9rem;
+}
+
+/* Badges par type de centre */
+.badge.bg-secondary { background-color: var(--gris-texte) !important; }
+.badge.bg-danger { background-color: var(--alerte) !important; }
+.badge.bg-success { background-color: var(--savane) !important; }
+
+/* ============================================
+   Navbar FasoSOS — une seule ligne, desktop et mobile
+   ============================================ */
+.navbar-fasosos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    background: white;
+    border-bottom: 3px solid var(--terre);
+    padding: 0 12px;
+    height: 60px;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+    color: var(--terre) !important;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.navbar-brand img {
+    height: 34px;
+    width: auto;
+}
+
+.navbar-fasosos-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.btn-navbar {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.btn-navbar-urgence {
+    background-color: var(--alerte);
+    color: white;
+}
+
+.btn-navbar-urgence:hover {
+    background-color: var(--alerte-fonce);
+    color: white;
+}
+
+.btn-navbar-profil {
+    background-color: var(--karite);
+    color: var(--encre);
+    border: 1px solid var(--bordure);
+}
+
+.btn-navbar-profil:hover {
+    background-color: #f0ead9;
+    color: var(--encre);
+}
+
+.icone-navbar {
+    font-size: 1rem;
+    line-height: 1;
+}
+
+@media (max-width: 480px) {
+    .texte-navbar {
+        display: none;
+    }
+
+    .btn-navbar {
+        padding: 8px 10px;
+    }
+}
+
+/* ============================================
+   Carte + panneau des centres proches
+   Desktop : panneau latéral fixe.
+   Mobile : panneau coulissant (bottom sheet) au-dessus de la carte.
+   ============================================ */
+.conteneur-carte-panneau {
+    position: relative;
+    height: calc(100vh - 60px);
+    overflow: hidden;
+}
+
+#carte {
+    position: absolute;
+    inset: 0;
+}
+
+#panneau-centres {
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.carte-centre-liste {
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--bordure);
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.carte-centre-liste:hover {
+    background: var(--karite);
+}
+
+.carte-centre-liste .nom-centre {
+    font-weight: 600;
+}
+
+.carte-centre-liste .distance-centre {
+    color: var(--terre);
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.badge-type-mismatch {
+    background-color: var(--or) !important;
+    color: var(--encre) !important;
+}
+
+.fiche-centre {
+    max-height: 40vh;
+    overflow-y: auto;
+}
+
+.poignee-panneau {
+    display: none;
+}
+
+/* --- Desktop (>= 768px) : panneau latéral classique --- */
+@media (min-width: 768px) {
+    .conteneur-carte-panneau {
+        display: flex;
+    }
+
+    #carte {
+        position: static;
+        flex: 1;
+        order: 2;
+    }
+
+    #panneau-centres {
+        position: static;
+        width: 340px;
+        min-width: 340px;
+        height: 100%;
+        border-right: 1px solid var(--bordure);
+        border-radius: 0;
+        box-shadow: none;
+        overflow-y: auto;
+        order: 1;
+    }
+
+    #panneau-centres .panneau-header {
+        padding: 14px 16px;
+        border-bottom: 1px solid var(--bordure);
+        font-family: var(--police-titre);
+        font-weight: 600;
+        background: var(--karite);
+    }
+}
+
+/* --- Mobile (< 768px) : panneau coulissant superposé à la carte --- */
+@media (max-width: 767.98px) {
+    #panneau-centres {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border-radius: 16px 16px 0 0;
+        box-shadow: 0 -4px 20px rgba(33, 26, 21, 0.18);
+        z-index: 900;
+        transition: height 0.25s ease;
+        overflow: hidden;
+    }
+
+    #panneau-centres .panneau-header {
+        display: none;
+    }
+
+    #panneau-centres.etat-ferme {
+        height: 92px;
+    }
+
+    #panneau-centres.etat-ouvert {
+        height: 68vh;
+    }
+
+    .poignee-panneau {
+        display: block;
+        flex-shrink: 0;
+        padding: 10px 18px 14px;
+        cursor: pointer;
+    }
+
+    .barre-glissement {
+        width: 40px;
+        height: 4px;
+        background: var(--bordure);
+        border-radius: 2px;
+        margin: 0 auto 10px;
+    }
+
+    .apercu-panneau {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-weight: 600;
+        font-size: 0.92rem;
+    }
+
+    .apercu-panneau .distance-centre {
+        color: var(--terre);
+        font-weight: 700;
+    }
+
+    #liste-centres {
+        flex: 1;
+        overflow-y: auto;
+    }
+
+    body.panneau-ouvert .btn-sos,
+    body.panneau-ouvert #zone-chatbot-flottant {
+        bottom: calc(68vh + 14px);
+        transition: bottom 0.25s ease;
+    }
+
+    .btn-sos, #zone-chatbot-flottant {
+        transition: bottom 0.25s ease;
+    }
+}
+
+/* ============================================
+   Bouton SOS — reste le seul geste "fort" de l'écran
+   ============================================ */
+.btn-sos {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    background-color: var(--alerte);
+    color: white;
+    font-family: var(--police-titre);
+    font-weight: 700;
+    font-size: 1.1rem;
+    letter-spacing: 0.03em;
+    border: 4px solid white;
+    box-shadow: 0 4px 16px rgba(200, 30, 30, 0.4);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: pulse-sos 2.4s infinite;
+}
+
+.btn-sos:hover, .btn-sos:active {
+    background-color: var(--alerte-fonce);
+    color: white;
+}
+
+@keyframes pulse-sos {
+    0% { box-shadow: 0 0 0 0 rgba(200, 30, 30, 0.5); }
+    70% { box-shadow: 0 0 0 18px rgba(200, 30, 30, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(200, 30, 30, 0); }
+}
+
+/* ============================================
+   Widget agent IA (chatbot)
+   ============================================ */
+#zone-chatbot-flottant {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+#btn-chatbot {
+    padding: 0;
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: var(--savane);
+    color: white;
+    border: 3px solid white;
+    box-shadow: 0 4px 12px rgba(31, 92, 61, 0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#etiquette-chatbot {
+    background: var(--savane);
+    color: white;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 5px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    animation: apparition-etiquette 0.4s ease-out 1.2s backwards;
+}
+
+@keyframes apparition-etiquette {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+#fenetre-chatbot {
+    position: fixed;
+    bottom: 98px;
+    left: 20px;
+    width: 350px;
+    max-width: calc(100vw - 40px);
+    height: 480px;
+    max-height: 70vh;
+    background: white;
+    border-radius: 14px;
+    box-shadow: 0 8px 28px rgba(33, 26, 21, 0.25);
+    z-index: 1001;
+    display: none;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--bordure);
+}
+
+#fenetre-chatbot.ouverte {
+    display: flex;
+}
+
+#chatbot-header {
+    background-color: var(--savane);
+    color: white;
+    padding: 12px 16px;
+    font-family: var(--police-titre);
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#chatbot-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.message-chatbot {
+    max-width: 82%;
+    padding: 9px 13px;
+    border-radius: 12px;
+    font-size: 0.92rem;
+    line-height: 1.45;
+}
+
+.message-chatbot.user {
+    align-self: flex-end;
+    background-color: var(--savane);
+    color: white;
+}
+
+.message-chatbot.assistant {
+    align-self: flex-start;
+    background-color: var(--karite);
+    color: var(--encre);
+    border: 1px solid var(--bordure);
+}
+
+#chatbot-input-zone {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid var(--bordure);
+    gap: 6px;
+}
+
+#chatbot-input-zone input {
+    flex: 1;
+}
+
+#chatbot-historique {
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px;
+}
+
+#chatbot-historique.visible {
+    display: block !important;
+}
+
+.item-historique {
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin-bottom: 6px;
+    background: var(--karite);
+    cursor: pointer;
+    font-size: 0.85rem;
+    border: 1px solid var(--bordure);
+}
+
+.item-historique:hover {
+    background: #f0ead9;
+}
+
+.item-historique .date-conversation {
+    font-size: 0.75rem;
+    color: var(--gris-texte);
+    margin-bottom: 2px;
+}
+
+/* ============================================
+   Mobile — ajustements fins < 576px
+   ============================================ */
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.1rem;
+    }
+
+    .btn-sos {
+        width: 72px;
+        height: 72px;
+        font-size: 0.95rem;
+        bottom: 20px;
+        right: 20px;
+    }
+
+    #zone-chatbot-flottant {
+        bottom: 20px;
+        left: 16px;
+    }
+
+    #btn-chatbot {
+        width: 52px;
+        height: 52px;
+    }
+
+    #etiquette-chatbot {
+        font-size: 0.65rem;
+        padding: 4px 8px;
+    }
+
+    #fenetre-chatbot {
+        left: 10px;
+        bottom: 84px;
+        width: calc(100vw - 20px);
+        height: 65vh;
+    }
+
+    .card-body { padding: 1rem; }
+}
+
+/* Étiquette permanente (nom + distance) sur chaque marqueur de centre */
+.etiquette-centre-carte {
+    background: white;
+    border: 1px solid var(--bordure);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-family: var(--police-texte);
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--encre);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    white-space: nowrap;
+}
+
+.etiquette-centre-carte::before {
+    border-top-color: white;
+}
+
+/* Rend visuellement évident que l'étiquette est cliquable */
+.etiquette-centre-carte {
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.etiquette-centre-carte:hover {
+    transform: scale(1.05);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}

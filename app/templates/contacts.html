@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block title %}Mes contacts d'urgence - FasoSOS{% endblock %}
+
+{% block content %}
+<nav class="navbar navbar-light bg-white border-bottom px-3" style="height:60px;">
+    <a href="/" class="navbar-brand mb-0 h1">🚨 FasoSOS</a>
+    <div>
+        <a href="/profil" class="text-muted text-decoration-none me-3" id="nom-utilisateur"></a>
+        <button id="btn-deconnexion" class="btn btn-sm btn-outline-danger">Déconnexion</button>
+    </div>
+</nav>
+
+<div class="container py-4" style="max-width: 700px;">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h4 class="mb-0">Mes contacts d'urgence</h4>
+        <span class="text-muted"><span id="compteur-contacts">0</span> / 5</span>
+    </div>
+    <p class="text-muted">En cas d'urgence, un message pré-rempli avec votre position pourra être envoyé directement par SMS au contact de votre choix.</p>
+
+    <div id="alerte-contacts" class="alert d-none"></div>
+
+    <div id="liste-contacts" class="mb-4"></div>
+
+    <div class="card shadow-sm" id="carte-formulaire-contact">
+        <div class="card-header bg-white fw-bold">Ajouter un contact</div>
+        <div class="card-body">
+            <form id="form-contact">
+                <input type="hidden" id="contact-id">
+                <div class="mb-2">
+                    <label class="form-label">Nom complet</label>
+                    <input type="text" class="form-control" id="contact-nom" required>
+                </div>
+                <div class="mb-2">
+                    <label class="form-label">Téléphone</label>
+                    <input type="text" class="form-control" id="contact-telephone" placeholder="+22670123456" required>
+                </div>
+                <div class="mb-2">
+                    <label class="form-label">Lien de parenté</label>
+                    <input type="text" class="form-control" id="contact-lien-parente" placeholder="ex : Époux, Frère, Ami...">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Priorité</label>
+                    <select id="contact-priorite" class="form-select">
+                        <option value="1">1 - Priorité la plus haute</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-danger w-100" id="btn-soumettre-contact">Ajouter le contact</button>
+                <button type="button" class="btn btn-link w-100 d-none" id="btn-annuler-edition">Annuler la modification</button>
+            </form>
+        </div>
+    </div>
+
+    <a href="/" class="btn btn-outline-secondary w-100 mt-3">← Retour à la carte</a>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/api.js') }}"></script>
+<script src="{{ url_for('static', filename='js/contacts.js') }}"></script>
+{% endblock %}
