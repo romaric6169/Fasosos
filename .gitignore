@@ -1,9 +1,19 @@
+# Environnement virtuel
 venv/
+.venv/
+env/
+ENV/
+
+# Cache Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Fichiers d'environnement (mots de passe, clés d'API)
 .env
-instance/
-.pytest_cache/
-.mypy_cache/
-*.egg-info/
+
+# Fichiers du système ou de l'éditeur
 .DS_Store
+.vscode/
+.idea/
